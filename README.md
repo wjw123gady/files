@@ -1,4 +1,7 @@
-# files 各种文件直链提供
+
+# 极速浏览器广告规则
+
+
 
 # A free CDN for Open Source
 
