@@ -1,7 +1,7 @@
 
 # 极速浏览器广告规则
 
-
+https://cdn.jsdelivr.net/gh/cyao2q/files@master/mseads.txt
 
 # A free CDN for Open Source
 
