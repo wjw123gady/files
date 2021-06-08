@@ -1,7 +1,17 @@
 
-# 极速浏览器广告规则
+# 广告过滤规则
 
-https://cdn.jsdelivr.net/gh/cyao2q/files/mseads.txt
+https://cdn.jsdelivr.net/gh/cyao2q/files/filters/AdGuardChinese.txt
+
+
+https://cdn.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt
+
+
+https://cdn.jsdelivr.net/gh/cyao2q/files/filters/mseads.txt
+
+
+https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
+
 
 # v2rayN 路由规则
 
