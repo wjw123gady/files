@@ -9,11 +9,6 @@ https://fastly.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
 
 https://fastly.jsdelivr.net/gh/cyao2q/files/filters/mseads.txt
 
-
-# ublock过滤规则  
-
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/assets.json
-
 ## EasyList
 https://easylist.to/easylist/easylist.txt
 
