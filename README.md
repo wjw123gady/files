@@ -1,13 +1,13 @@
 
 # 广告过滤规则
 
-https://cdn.jsdelivr.net/gh/cyao2q/files/filters/AdGuardChinese.txt
+https://fastly.jsdelivr.net/gh/cyao2q/files/filters/AdGuardChinese.txt
 
-https://cdn.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt
+https://fastly.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt
 
-https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
+https://fastly.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
 
-https://cdn.jsdelivr.net/gh/cyao2q/files/filters/mseads.txt
+https://fastly.jsdelivr.net/gh/cyao2q/files/filters/mseads.txt
 
 
 # ublock过滤规则  
@@ -31,7 +31,7 @@ https://filters.adtidy.org/extension/ublock/filters/224.txt
 
 # v2rayN 路由规则
 
-https://cdn.jsdelivr.net/gh/cyao2q/files/rules
+https://fastly.jsdelivr.net/gh/cyao2q/files/rules
 
 # A free CDN for Open Source
 
