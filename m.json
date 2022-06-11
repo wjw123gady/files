@@ -148,16 +148,6 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dm84.json"
-        },
-        {
-            "key":"csp_xpath_pianba",
-            "name":"Pianba(XPath)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/pianba.json"
         }
     ],
     "lives":[
