@@ -21,13 +21,14 @@
             "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/zxzj.json"
         },
         {
-            "key":"csp_77",
-            "name":"七七",
+            "key":"csp_xpath_jbb",
+            "name":"剧白白(XP)",
             "type":3,
-            "api":"csp_Kunyu77",
+            "api":"csp_XPathMacFilter",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1
+            "filterable":1,
+            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -50,14 +51,13 @@
             "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dadagui.json"
         },
         {
-            "key":"csp_xpath_jbb",
-            "name":"剧白白(XP)",
+            "key":"csp_77",
+            "name":"七七",
             "type":3,
-            "api":"csp_XPathMacFilter",
+            "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"
+            "filterable":1
         },
         {
             "key":"csp_appysv2_迪迪",
