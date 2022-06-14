@@ -1,3 +1,14 @@
+# 猫影视APP下载+资源 https://github.com/xlc520/MaoTV
+
+https://cyao.lanzouu.com/ijZjf048r0ch
+
+https://fastly.jsdelivr.net/gh/cyao2q/files@master/n.json
+
+https://fastly.jsdelivr.net/gh/cyao2q/files@master/m.json
+
+https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json
+
+http://www.mikkk.xyz/m.json
 
 # 广告过滤规则
 
