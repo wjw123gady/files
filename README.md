@@ -1,4 +1,4 @@
-# 猫影视APP[下载1](https://cyao.lanzouu.com/ijZjf048r0ch)     [下载2](https://www.fenxm.com/634.html)+[资源](https://github.com/xlc520/MaoTV)
+# 猫影视APP[下载1](https://cyao.lanzouu.com/ijZjf048r0ch)     [下载2](https://www.fenxm.com/634.html)     [资源](https://github.com/xlc520/MaoTV)
 
 https://fastly.jsdelivr.net/gh/cyao2q/files@master/n.json
 
