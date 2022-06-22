@@ -1,10 +1,8 @@
-# 猫影视APP[下载1](https://cyao.lanzouu.com/ijZjf048r0ch)     [下载2](https://www.fenxm.com/634.html)
+# biubiu播放器[下载1](https://cyao.lanzouu.com/iCONz06ruybe)     [下载2](https://www.fenxm.com/806.html)
 
-https://fastly.jsdelivr.net/gh/cyao2q/files@master/n.json
+https://fastly.jsdelivr.net/gh/cyao2q/files@master/bb.json
 
-https://fastly.jsdelivr.net/gh/cyao2q/files@master/m.json
-
-https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json
+https://cdn.jsdelivr.net/gh/cyao2q/files@master/bb.json
 
 # 广告过滤规则
 
