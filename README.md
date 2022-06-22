@@ -1,8 +1,8 @@
 # biubiu播放器[下载1](https://cyao.lanzouu.com/iCONz06ruybe)     [下载2](https://www.fenxm.com/806.html)
 
-https://fastly.jsdelivr.net/gh/cyao2q/files@master/bb.json
+https://fastly.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
-https://cdn.jsdelivr.net/gh/cyao2q/files@master/bb.json
+https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
 # 广告过滤规则
 
