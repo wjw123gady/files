@@ -5,8 +5,16 @@
             "url":"http://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
+            "name":"会员影院",
+            "url":"http://360yy.cn/api.php/app/"
+        },
+        {
             "name":"独播社",
             "url":"http://35ys.cc/api.php/v1.vod"
+        },
+        {
+            "name":"开尔影院",
+            "url":"https://appx.uy07.com/api.php/v1.vod"
         },
         {
             "name":"秒播影视",
