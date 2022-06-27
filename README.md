@@ -1,10 +1,10 @@
-# biubiu播放器[下载1](https://cyao.lanzouu.com/iCONz06ruybe)     [下载2](https://www.fenxm.com/806.html)
+# biubiu播放器[下载1](https://cyao.lanzouu.com/iCONz06ruybe)     [下载2](https://www.fenxm.com/806.html)     [聚合](https://liu673cn.github.io/biubiu/)
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
 https://fastly.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
-# TVbox [原始分享地址](https://liu673cn.github.io/mao/)
+# TVbox [聚合](https://liu673cn.github.io/mao/)
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json
 
