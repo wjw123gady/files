@@ -1,4 +1,4 @@
-# biubiu播放器[下载1](https://cyao.lanzouu.com/iCONz06ruybe)     [下载2](https://www.fenxm.com/806.html)     [下载3](https://liu673cn.github.io/biubiu/)
+# biubiu播放器[下载1](https://cyao.lanzouu.com/iCONz06ruybe)     [分享迷](https://www.fenxm.com/806.html)     [聚合](https://liu673cn.github.io/biubiu/)
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
@@ -19,10 +19,6 @@ https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json
 https://fastly.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt
 
 https://fastly.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
-
-# v2rayN 路由规则
-
-https://fastly.jsdelivr.net/gh/cyao2q/files/rules
 
 # A free CDN for Open Source
 
