@@ -4,16 +4,11 @@ http://f.cyao.tk/bb.json
 
 http://www.mikkk.xyz/bb.json
 
+https://shuyuan.miaogongzi.net/shuyuan/1655865516.txt
+
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
 https://fastly.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
-
-设置——接口输入  
-
-- https://shuyuan.miaogongzi.net/shuyuan/1655865516.txt
-- https://shuyuan.miaogongzi.net/shuyuan/1653121551.txt
-- http://www.mikkk.xyz/bb.json
-- http://laohu.cool/ddtv/dd.json
 
 # TVbox [原分享地址](https://liu673cn.github.io/mao/)
 
