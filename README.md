@@ -12,6 +12,8 @@ https://fastly.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
 # TVbox [原分享地址](https://liu673cn.github.io/mao/)
 
+https://raw.githubusercontents.com/cyao2q/files/master/n.json
+
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/tvmovie/zl.json
