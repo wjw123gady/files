@@ -2,6 +2,24 @@
     "spider":"https://raw.githubusercontents.com/cyao2q/files/master/tvmovie/custom_spider.jar;md5;5ca684bc4005644fea4b068ede66e725",
     "sites":[
         {
+            "key":"csp_77",
+            "name":"七七",
+            "type":3,
+            "api":"csp_Kunyu77",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"快看",
+            "name":"快看",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"csp_xpath___在线之家",
             "name":"在线之家(XP)",
             "type":3,
@@ -20,24 +38,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://raw.githubusercontents.com/cyao2q/files/master/ext/lib.json"
-        },
-        {
-            "key":"csp_77",
-            "name":"七七",
-            "type":3,
-            "api":"csp_Kunyu77",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"快看",
-            "name":"快看",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"厂长影视",
