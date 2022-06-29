@@ -19,22 +19,22 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://fastly.jsdelivr.net/gh/cyao2q/files/ext/lib.json"
-        },
-        {
-            "key":"快看",
-            "name":"快看",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "ext":"https://raw.githubusercontents.com/cyao2q/files/master/ext/lib.json"
         },
         {
             "key":"csp_77",
             "name":"七七",
             "type":3,
             "api":"csp_Kunyu77",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"快看",
+            "name":"快看",
+            "type":3,
+            "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -96,7 +96,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://fastly.jsdelivr.net/gh/cyao2q/files/ext/94sm.json"
+            "ext":"https://raw.githubusercontents.com/cyao2q/files/master/ext/94sm.json"
         },
         {
             "key":"csp_xpath_age",
