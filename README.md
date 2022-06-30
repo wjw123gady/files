@@ -20,8 +20,6 @@ https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/tvmovie/zl.json
 
-http://118.190.244.195/tvmovie/zl.json
-
 https://wds.ecsxs.com/223843.txt
 
 [TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
