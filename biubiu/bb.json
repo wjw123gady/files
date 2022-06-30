@@ -42,16 +42,36 @@
             "url":"http://api.kunyu77.com/api.php"
         },
         {
-            "name":"番茄",
-            "url":"http://api.fqzy.cc/api.php"
-        },
-        {
-            "name":"天堂",
+            "name":"天堂资源",
             "url":"http://vipmv.cc/api.php"
         },
         {
-            "name":"乐活",
-            "url":"https://lehootv.com/api.php"
+            "name":"FOX资源",
+            "url":"https://api.foxzyapi.com/api.php"
+        },
+        {
+            "name":"U酷资源",
+            "url":"https://api.ukuapi.com/api.php"
+        },
+        {
+            "name":"卧龙资源",
+            "url":"https://collect.wolongzyw.com/api.php"
+        },
+        {
+            "name":"忆梦",
+            "url":"http://anltv.cn/api.php"
+        },
+        {
+            "name":"想看资源",
+            "url":"https://m3u8.xiangkanapi.com/api.php"
+        },
+        {
+            "name":"酷猫影视",
+            "url":"https://www.pgcms10.com/api.php"
+        },
+        {
+            "name":"量子资源",
+            "url":"http://cj.lziapi.com/api.php"
         }
     ],
     "tiyuzhibo":"https://m.zhibo8.net",
