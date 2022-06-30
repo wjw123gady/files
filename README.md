@@ -6,8 +6,6 @@ http://www.mikkk.xyz/bb.json
 
 https://shuyuan.miaogongzi.net/shuyuan/1655865516.txt
 
-https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
-
 https://fastly.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
 # TVbox [分享迷](https://pan.lanzoui.com/b0ah4ju9a)     [原分享地址](https://liu673cn.github.io/mao/)
