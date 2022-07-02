@@ -189,6 +189,11 @@
             "url":"Parallel"
         },
         {
+            "name":"线路NX",
+            "type":1,
+            "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+        },
+        {
             "name":"web1",
             "type":0,
             "url":"https://www.nxflv.com/?url=",
