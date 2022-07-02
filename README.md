@@ -26,7 +26,7 @@ https://wds.ecsxs.com/223843.txt
 
 [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)
 
-[夸克网盘 ](https://pan.quark.cn/s/4990bab723a1#/list/share/ee20bad7e5584888905d83d642ca9870-TVbox)
+[夸克网盘 ](https://pan.quark.cn/s/4990bab723a1)
 
 # 广告过滤规则
 
