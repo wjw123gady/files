@@ -4,7 +4,7 @@ http://f.cyao.tk/bb.json
 
 http://www.mikkk.xyz/bb.json
 
-https://shuyuan.miaogongzi.net/shuyuan/1655865516.txt
+https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
