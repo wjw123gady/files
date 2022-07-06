@@ -16,8 +16,6 @@ https://raw.githubusercontents.com/cyao2q/files/master/n.json
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/tvmovie/zl.json
 
-https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
-
 https://wds.ecsxs.com/223843.txt
 
 [TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
