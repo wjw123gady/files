@@ -20,6 +20,24 @@
             "filterable":1
         },
         {
+            "key":"酷猫",
+            "name":"酷猫",
+            "type":1,
+            "api":"https://www.pgcms10.com/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"诺迅",
+            "name":"诺迅",
+            "type":1,
+            "api":"https://caiji.nxflv.com/api.php/provide/vod/",
+            "playUrl":"https://www.nxflv.com/?url=",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
             "key":"厂长影视",
             "name":"厂长影视",
             "type":3,
