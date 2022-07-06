@@ -109,7 +109,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://cdn.jsdelivr.net/gh/cyao2q/files@master/tvmovie/bili.json"
+            "ext":"https://cdn.jsdelivr.net/gh/cyao2q/files@master/tvmovie/0627/bili.json"
         },
         {
             "key":"360",
