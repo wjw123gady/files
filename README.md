@@ -1,4 +1,4 @@
-# biubiu播放器[lanzouu](https://cyao.lanzouu.com/iCONz06ruybe)     [分享迷](https://www.fenxm.com/806.html)     [biubiu](https://liu673cn.github.io/biubiu/)
+# biubiu播放器 [liu673cn](https://liu673cn.github.io/biubiu/)    [下载](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
 
 http://f.cyao.tk/bb.json
 
@@ -8,7 +8,7 @@ https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json
 
-# TVbox [mao](https://liu673cn.github.io/mao/)     [quark ](https://pan.quark.cn/s/4990bab723a1)     [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+# TVbox [liu673cn](https://liu673cn.github.io/mao/)    [夸克网盘 ](https://pan.quark.cn/s/4990bab723a1)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
 
 http://f.cyao.tk/n.json
 
