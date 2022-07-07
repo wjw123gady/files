@@ -8,7 +8,7 @@ https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json
 
-# TVbox [原分享地址](https://liu673cn.github.io/mao/)
+# TVbox [原分享地址](https://liu673cn.github.io/mao/)     [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
 
 http://f.cyao.tk/n.json
 
@@ -19,8 +19,6 @@ https://cdn.jsdelivr.net/gh/cyao2q/files@master/tvmovie/zl.json
 https://wds.ecsxs.com/223843.txt
 
 [TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
-
-[腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
 
 [夸克网盘 ](https://pan.quark.cn/s/4990bab723a1)
 
