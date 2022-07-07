@@ -12,7 +12,7 @@ https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json
 
 http://f.cyao.tk/n.json
 
-https://raw.githubusercontents.com/cyao2q/files/master/n.json
+https://raw-gh.gcdn.mirr.one/cyao2q/files/master/n.json
 
 https://tvyy.coding.net/p/tvbox/d/TVBox/git/raw/master/meowcf.json
 
