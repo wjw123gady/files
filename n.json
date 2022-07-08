@@ -29,10 +29,37 @@
             "quickSearch":1
         },
         {
-            "key":"酷猫资源",
-            "name":"酷猫资源",
+            "key":"FOX资源",
+            "name":"FOX资源",
+            "type":1,
+            "api":"https://api.foxzyapi.com/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"酷猫影视",
+            "name":"酷猫影视",
             "type":1,
             "api":"https://www.pgcms10.com/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"量子资源",
+            "name":"量子资源",
+            "type":1,
+            "api":"http://cj.lziapi.com/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"诺讯资源",
+            "name":"诺讯资源",
+            "type":1,
+            "api":"https://caiji.nxflv.com/api.php/provide/vod/",
             "playUrl":"",
             "searchable":1,
             "quickSearch":1
@@ -56,15 +83,6 @@
             "filterable":1
         },
         {
-            "key":"诺讯资源",
-            "name":"诺讯资源",
-            "type":1,
-            "api":"https://caiji.nxflv.com/api.php/provide/vod/",
-            "playUrl":"https://www.nxflv.com/?url=",
-            "searchable":1,
-            "quickSearch":1
-        },
-        {
             "key":"在线之家",
             "name":"在线之家(XP)",
             "type":3,
@@ -83,6 +101,16 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/lib.json"
+        },
+        {
+            "key":"影视工厂",
+            "name":"影视工厂(XBiubiu)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/ysgc.json"
         },
         {
             "key":"剧白白",
@@ -126,7 +154,7 @@
         },
         {
             "key":"94神马",
-            "name":"94神马(XPath)",
+            "name":"94神马(XP)",
             "type":3,
             "api":"csp_XPath",
             "searchable":1,
@@ -136,7 +164,7 @@
         },
         {
             "key":"csp_xpath_age",
-            "name":"AGE动漫(XPath)",
+            "name":"AGE动漫(XP)",
             "type":3,
             "api":"csp_XPath",
             "searchable":1,
@@ -146,7 +174,7 @@
         },
         {
             "key":"csp_xpath_jpyszl",
-            "name":"极品直链(XPath)",
+            "name":"极品直链(XP)",
             "type":3,
             "api":"csp_XPathMac",
             "searchable":1,
@@ -176,7 +204,7 @@
         },
         {
             "key":"csp_xpath_tvci",
-            "name":"大师兄(XPath)",
+            "name":"大师兄(XP)",
             "type":3,
             "api":"csp_XPath",
             "searchable":1,
@@ -186,7 +214,7 @@
         },
         {
             "key":"csp_xpath_duboku",
-            "name":"独播库(XPath)",
+            "name":"独播库(XP)",
             "type":3,
             "api":"csp_XPath",
             "searchable":1,
@@ -196,7 +224,7 @@
         },
         {
             "key":"csp_xpath_dm84",
-            "name":"动漫巴士(XPath)",
+            "name":"动漫巴士(XP)",
             "type":3,
             "api":"csp_XPath",
             "searchable":1,

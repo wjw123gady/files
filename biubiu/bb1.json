@@ -15,22 +15,6 @@
         {
             "name":"开尔影院",
             "url":"https://appx.uy07.com/api.php/v1.vod"
-        },
-        {
-            "name":"秒播影视",
-            "url":"https://www.kan365.xyz/api.php/app/"
-        },
-        {
-            "name":"天空影视",
-            "url":"https://www.tkys.tv/xgapp.php/v2/"
-        },
-        {
-            "name":"段友影视",
-            "url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "name":"月儿影视",
-            "url":"https://yue52.xyz/api.php/v1.vod"
         }
     ],
     "zhujiexi":"http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url=#https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=",
@@ -50,32 +34,8 @@
             "url":"http://caiji.nxflv.com/api.php"
         },
         {
-            "name":"嗨哆咪影视",
-            "url":"http://hdmys1.com/api.php"
-        },
-        {
-            "name":"8090资源",
-            "url":"http://zy.yilans.net:8090/api.php"
-        },
-        {
             "name":"FOX资源",
             "url":"https://api.foxzyapi.com/api.php"
-        },
-        {
-            "name":"一拳动漫",
-            "url":"http://47.97.68.224/api.php"
-        },
-        {
-            "name":"天堂资源",
-            "url":"http://vipmv.cc/api.php"
-        },
-        {
-            "name":"安逸影院",
-            "url":"http://dy.51isu.com:11801/api.php"
-        },
-        {
-            "name":"小猫咪",
-            "url":"http://zy.xiaomaomi.cc/api.php"
         },
         {
             "name":"酷猫影视",
