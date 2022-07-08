@@ -2,8 +2,8 @@
     "spider":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/custom_spider.jar;md5;5ca684bc4005644fea4b068ede66e725",
     "sites":[
         {
-            "key":"七七",
-            "name":"七七",
+            "key":"酷云七七",
+            "name":"酷云七七",
             "type":3,
             "api":"csp_Kunyu77",
             "searchable":1,
@@ -11,8 +11,8 @@
             "filterable":1
         },
         {
-            "key":"快看",
-            "name":"快看",
+            "key":"快看资源",
+            "name":"快看资源",
             "type":3,
             "api":"csp_Kuaikan",
             "searchable":1,
@@ -20,8 +20,17 @@
             "filterable":1
         },
         {
-            "key":"酷猫",
-            "name":"酷猫",
+            "key":"快播资源",
+            "name":"快播资源",
+            "type":1,
+            "api":"http://www.kuaibozy.com/api.php/provide/vod/",
+            "playUrl":"",
+            "searchable":1,
+            "quickSearch":1
+        },
+        {
+            "key":"酷猫资源",
+            "name":"酷猫资源",
             "type":1,
             "api":"https://www.pgcms10.com/api.php/provide/vod/",
             "playUrl":"",
