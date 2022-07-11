@@ -90,7 +90,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/zxzj.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/zxzj.json"
         },
         {
             "key":"LIBVIO",
@@ -120,7 +120,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/jubaibai.json"
         },
         {
             "key":"乐猪TV",
@@ -130,7 +130,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lezhutv.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/lezhutv.json"
         },
         {
             "key":"达达龟",
@@ -140,7 +140,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dadagui.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/dadagui.json"
         },
         {
             "key":"迪迪",
@@ -170,7 +170,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/agefans.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/agefans.json"
         },
         {
             "key":"csp_xpath_jpyszl",
@@ -180,7 +180,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jpys.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/jpys.json"
         },
         {
             "key":"csp_appysv2_天空V2",
@@ -210,7 +210,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/tvci.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/tvci.json"
         },
         {
             "key":"csp_xpath_duboku",
@@ -220,7 +220,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/Duboku.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/Duboku.json"
         },
         {
             "key":"csp_xpath_dm84",
@@ -230,7 +230,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dm84.json"
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/dm84.json"
         }
     ],
     "lives":[
