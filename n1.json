@@ -74,15 +74,6 @@
             "filterable":1
         },
         {
-            "key":"低端影视",
-            "name":"低端影视",
-            "type":3,
-            "api":"csp_Ddrk",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"在线之家",
             "name":"在线之家(XP)",
             "type":3,
@@ -90,7 +81,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/zxzj.json"
+            "ext":"http://f.cyao.tk/xpath/zxzj.json"
         },
         {
             "key":"LIBVIO",
@@ -100,7 +91,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/lib.json"
+            "ext":"http://f.cyao.tk/xpath/lib.json"
         },
         {
             "key":"影视工厂",
@@ -110,7 +101,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/ysgc.json"
+            "ext":"http://f.cyao.tk/xpath/ysgc.json"
         },
         {
             "key":"剧白白",
@@ -120,7 +111,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/jubaibai.json"
+            "ext":"http://f.cyao.tk/xpath/jubaibai.json"
         },
         {
             "key":"乐猪TV",
@@ -130,7 +121,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/lezhutv.json"
+            "ext":"http://f.cyao.tk/xpath/lezhutv.json"
         },
         {
             "key":"达达龟",
@@ -140,7 +131,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/dadagui.json"
+            "ext":"http://f.cyao.tk/xpath/dadagui.json"
         },
         {
             "key":"迪迪",
@@ -160,7 +151,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/94sm.json"
+            "ext":"http://f.cyao.tk/xpath/94sm.json"
         },
         {
             "key":"csp_xpath_age",
@@ -170,7 +161,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/agefans.json"
+            "ext":"http://f.cyao.tk/xpath/agefans.json"
         },
         {
             "key":"csp_xpath_jpyszl",
@@ -180,7 +171,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/jpys.json"
+            "ext":"http://f.cyao.tk/xpath/jpys.json"
         },
         {
             "key":"csp_appysv2_天空V2",
@@ -210,7 +201,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/tvci.json"
+            "ext":"http://f.cyao.tk/xpath/tvci.json"
         },
         {
             "key":"csp_xpath_duboku",
@@ -220,7 +211,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/Duboku.json"
+            "ext":"http://f.cyao.tk/xpath/Duboku.json"
         },
         {
             "key":"csp_xpath_dm84",
@@ -230,7 +221,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/dm84.json"
+            "ext":"http://f.cyao.tk/xpath/dm84.json"
         }
     ],
     "lives":[
@@ -240,7 +231,7 @@
                 {
                     "name":"redirect",
                     "urls":[
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jLXlhby5jb2RpbmcubmV0L3AvZ2gvZC9mL2dpdC9yYXcvbWFzdGVyL21hb2xpdmUudHh0"
+                        "proxy://do=live&type=txt&ext=aHR0cDovL2YuY3lhby50ay9tYW9saXZlLnR4dA=="
                     ]
                 }
             ]
