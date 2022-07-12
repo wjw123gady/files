@@ -134,46 +134,6 @@
             "ext":"http://f.cyao.tk/xpath/dadagui.json"
         },
         {
-            "key":"迪迪",
-            "name":"迪迪(M2)",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"http://dd88.icu:6080/xgapp.php/v2/"
-        },
-        {
-            "key":"94神马",
-            "name":"94神马(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/94sm.json"
-        },
-        {
-            "key":"csp_xpath_age",
-            "name":"AGE动漫(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/agefans.json"
-        },
-        {
-            "key":"csp_xpath_jpyszl",
-            "name":"极品直链(XP)",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/jpys.json"
-        },
-        {
             "key":"csp_appysv2_天空V2",
             "name":"天空V2(M2)",
             "type":3,
@@ -182,36 +142,6 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"https://www.tkys.tv/xgapp.php/v2/"
-        },
-        {
-            "key":"csp_appysv2_天空",
-            "name":"天空(M2)",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://tkys.tv/xgapp.php/v1/"
-        },
-        {
-            "key":"csp_xpath_tvci",
-            "name":"大师兄(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/tvci.json"
-        },
-        {
-            "key":"csp_xpath_duboku",
-            "name":"独播库(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/Duboku.json"
         },
         {
             "key":"csp_xpath_dm84",
