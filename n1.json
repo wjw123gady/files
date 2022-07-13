@@ -134,7 +134,7 @@
             "ext":"http://f.cyao.tk/xpath/dadagui.json"
         },
         {
-            "key":"csp_appysv2_天空V2",
+            "key":"天空V2",
             "name":"天空V2(M2)",
             "type":3,
             "api":"csp_AppYsV2",
@@ -144,7 +144,7 @@
             "ext":"https://www.tkys.tv/xgapp.php/v2/"
         },
         {
-            "key":"csp_xpath_dm84",
+            "key":"动漫巴士",
             "name":"动漫巴士(XP)",
             "type":3,
             "api":"csp_XPath",
@@ -155,7 +155,7 @@
         },
         {
             "key":"哔哩哔哩",
-            "name":"哔哩哔哩",
+            "name":"哔哩哔哩(Bili)",
             "type":3,
             "api":"csp_Bili",
             "searchable":1,
