@@ -1,12 +1,16 @@
 ﻿{
     "zhuyejiekou":[
         {
-            "name":"9e国语",
-            "url":"http://vod.9e03.com/lvdou_api.php/v1.vod"
+            "name":"默认主页",
+            "url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"
         },
         {
-            "name":"会员影院",
-            "url":"http://360yy.cn/api.php/app/"
+            "name":"七彩影视",
+            "url":"https://www.qcsvip.com/mogai_api.php/v1.vod"
+        },
+        {
+            "name":"9e国语",
+            "url":"http://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
             "name":"独播社",
