@@ -2,7 +2,7 @@
 
 http://f.cyao.tk/bb.json
 
-http://www.mikkk.xyz/bb.json
+https://pastebin.com/raw/4YZDxuEX
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
 
