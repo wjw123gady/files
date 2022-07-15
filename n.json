@@ -38,15 +38,6 @@
             "quickSearch":1
         },
         {
-            "key":"酷猫影视",
-            "name":"酷猫影视",
-            "type":1,
-            "api":"https://www.pgcms10.com/api.php/provide/vod/",
-            "playUrl":"",
-            "searchable":1,
-            "quickSearch":1
-        },
-        {
             "key":"量子资源",
             "name":"量子资源",
             "type":1,
