@@ -195,14 +195,9 @@
             "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
         },
         {
-            "name":"yjhan-api",
-            "type":1,
-            "url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="
-        },
-        {
             "name":"parwix1",
             "type":0,
-            "url":"https://jx.parwix.com:4433/player/?url=",
+            "url":"https://jx.bozrc.com:4433/player/?url=",
             "ext":{
                 "flag":[
                     "qq",
@@ -250,11 +245,6 @@
             "name":"m3u8",
             "type":0,
             "url":"https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name":"m1907",
-            "type":0,
-            "url":"https://z1.m1907.cn/?jx="
         },
         {
             "name":"ckmov",
