@@ -20,15 +20,6 @@
             "filterable":1
         },
         {
-            "key":"快播资源",
-            "name":"快播资源",
-            "type":1,
-            "api":"http://www.kuaibozy.com/api.php/provide/vod/",
-            "playUrl":"",
-            "searchable":1,
-            "quickSearch":1
-        },
-        {
             "key":"FOX资源",
             "name":"FOX资源",
             "type":1,
