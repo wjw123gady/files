@@ -71,11 +71,7 @@
         },
         {
             "name":"小猫咪",
-            "url":"http://zy.xiaomaomi.cc/api.php"
-        },
-        {
-            "name":"酷猫影视",
-            "url":"https://www.pgcms10.com/api.php"
+            "url":"http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list"
         },
         {
             "name":"一拳动漫",
@@ -88,14 +84,6 @@
         {
             "name":"嗨哆咪影视",
             "url":"http://hdmys1.com/api.php"
-        },
-        {
-            "name":"8090资源",
-            "url":"http://zy.yilans.net:8090/api.php"
-        },
-        {
-            "name":"安逸影院",
-            "url":"http://dy.51isu.com:11801/api.php"
         }
     ],
     "tiyuzhibo":"https://m.zhibo8.net",
