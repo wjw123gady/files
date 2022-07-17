@@ -1,10 +1,10 @@
-# biubiu播放器 [liu673cn](https://liu673cn.github.io/biubiu/)    [下载](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
+# biubiu播放器 [liu673cn](https://liu673cn.github.io/biubiu/)    [蓝奏网盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
 
 http://f.cyao.tk/bb.json
 
 https://pastebin.com/raw/4YZDxuEX
 
-https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb.json
+https://raw-gh.gcdn.mirr.one/cyao2q/files/master/biubiu/bb.json
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json
 
@@ -22,8 +22,7 @@ https://shuyuan.miaogongzi.net/shuyuan/1656721538.json
 
 [TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
 
-# 小苹果影视TV [分享迷](https://www.fenxm.com/833.html)
-[蓝奏云分享](https://pan.lanzoui.com/b0ah3sq8d)
+# 小苹果影视TV [分享迷](https://www.fenxm.com/833.html)    [蓝奏云分享](https://pan.lanzoui.com/b0ah3sq8d)
 
 # 广告过滤规则
 
