@@ -1,5 +1,5 @@
 {
-    "spider":"http://tttv.oss-cn-hangzhou.aliyuncs.com/Tv/custom_spider.jar",
+    "spider":"http://tttv.oss-cn-hangzhou.aliyuncs.com/Tv/custom_spider.jar;md5;18352bb3c6548e66eb162767ae27e014",
     "sites":[
         {
             "key":"csp_apptt_图图影视",
