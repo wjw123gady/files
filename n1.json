@@ -66,7 +66,7 @@
             "ext":"http://f.cyao.tk/xpath/zxzj.json"
         },
         {
-            "key":"LIBVIO",
+            "key":"LIBVIO-XP",
             "name":"LIBVIO(XP)",
             "type":3,
             "api":"csp_XPathFilter",
@@ -74,6 +74,16 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"http://f.cyao.tk/xpath/lib.json"
+        },
+        {
+            "key":"LIBVIO-XB",
+            "name":"LIBVIO(XBiubiu)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://f.cyao.tk/xpath/libvio.json"
         },
         {
             "key":"影视工厂",
