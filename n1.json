@@ -86,6 +86,26 @@
             "ext":"http://f.cyao.tk/xpath/libvio.json"
         },
         {
+            "key":"GIMY影视",
+            "name":"GIMY影视(XBiubiu)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://f.cyao.tk/xpath/gmtv1.json"
+        },
+        {
+            "key":"Gimy影院",
+            "name":"Gimy影院",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/xpath/gimytv.json"
+        },
+        {
             "key":"影视工厂",
             "name":"影视工厂(XBiubiu)",
             "type":3,
