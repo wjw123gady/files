@@ -66,16 +66,6 @@
             "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/zxzj.json"
         },
         {
-            "key":"LIBVIO-XP",
-            "name":"LIBVIO(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/lib.json"
-        },
-        {
             "key":"LIBVIO-XB",
             "name":"LIBVIO(XBiubiu)",
             "type":3,
@@ -84,6 +74,26 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/libvio.json"
+        },
+        {
+            "key":"蓝光影院",
+            "name":"蓝光影院(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/lgyy.json"
+        },
+        {
+            "key":"789看片",
+            "name":"789看片(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://c-yao.coding.net/p/gh/d/f/git/raw/master/xpath/789kp.json"
         },
         {
             "key":"影视工厂",
