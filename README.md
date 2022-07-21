@@ -16,6 +16,8 @@ https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json
 
 https://raw-gh.gcdn.mirr.one/cyao2q/files/master/n.json
 
+https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+
 https://wds.ecsxs.com/223843.txt
 
 https://shuyuan.miaogongzi.net/shuyuan/1656721538.json
