@@ -5,7 +5,7 @@
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
 // @license        MIT
-// @downloadURL    https://cdn.jsdelivr.net/gh/cyao2q/files@master/script/crackvideo.user.js
+// @downloadURL    https://raw-gh.gcdn.mirr.one/cyao2q/files/master/script/crackvideo.user.js
 // @require        https://code.jquery.com/jquery-latest.js
 // @noframes
 // @match          *://*.iqiyi.com/*
