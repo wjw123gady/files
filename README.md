@@ -24,9 +24,9 @@ https://shuyuan.miaogongzi.net/shuyuan/1656721538.json
 
 [TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
 
-# 破解VIP会员视频
+# 油猴脚本
 
-https://raw-gh.gcdn.mirr.one/cyao2q/files/master/script/crackvideo.user.js
+[破解VIP会员视频](https://raw-gh.gcdn.mirr.one/cyao2q/files/master/script/crackvideo.user.js)
 
 # 广告过滤规则
 
