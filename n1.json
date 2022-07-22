@@ -58,13 +58,13 @@
         },
         {
             "key":"LIBVIO",
-            "name":"LIBVIO(XBiubiu)",
+            "name":"LIBVIO(XP)",
             "type":3,
-            "api":"csp_XBiubiu",
+            "api":"csp_XPathFilter",
             "searchable":1,
             "quickSearch":1,
-            "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/libvio.json"
+            "filterable":1,
+            "ext":"http://f.cyao.tk/xpath/lib.json"
         },
         {
             "key":"蓝光影院",
