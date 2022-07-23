@@ -177,6 +177,25 @@
             "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
         },
         {
+            "name":"测试",
+            "type":1,
+            "url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "ext":{
+                "flag":[
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
             "name":"parwix1",
             "type":0,
             "url":"https://jx.bozrc.com:4433/player/?url=",
