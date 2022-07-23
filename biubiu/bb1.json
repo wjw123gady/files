@@ -5,11 +5,7 @@
             "url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"
         },
         {
-            "name":"七彩影视",
-            "url":"https://www.qcsvip.com/mogai_api.php/v1.vod"
-        },
-        {
-            "name":"9e国语",
+            "name":"9亿国语",
             "url":"http://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
@@ -17,8 +13,12 @@
             "url":"http://35ys.cc/api.php/v1.vod"
         },
         {
-            "name":"开尔影院",
-            "url":"https://appx.uy07.com/api.php/v1.vod"
+            "name":"天空影视",
+            "url":"https://www.tkys.tv/xgapp.php/v2/"
+        },
+        {
+            "name":"段友影视",
+            "url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
         }
     ],
     "zhujiexi":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=#https://www.hfyrw.com/json.php?url=#http://27.124.4.42:4567/jhjson/ceshi.php?url=#https://jhjx.kuanjv.com/newky/?url=#https://jhpc.manduhu.com/j1217.php?url=#https://openapi.973973.xyz/973/api/api_best.php?pltfrom=1100&key=973913e&url=",
