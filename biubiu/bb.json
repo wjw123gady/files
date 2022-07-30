@@ -38,10 +38,6 @@
             "url":"http://caiji.nxflv.com/api.php"
         },
         {
-            "name":"FOX资源",
-            "url":"https://api.foxzyapi.com/api.php"
-        },
-        {
             "name":"量子资源",
             "url":"http://cj.lziapi.com/api.php"
         },
@@ -56,10 +52,6 @@
         {
             "name":"天空资源",
             "url":"https://api.tiankongapi.com/api.php"
-        },
-        {
-            "name":"一拳动漫",
-            "url":"http://47.97.68.224/api.php"
         },
         {
             "name":"天堂资源",
