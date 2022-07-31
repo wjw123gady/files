@@ -38,10 +38,6 @@
             "url":"https://api.foxzyapi.com/api.php"
         },
         {
-            "name":"鱼乐资源",
-            "url":"https://api.ylzy1.com/api.php"
-        },
-        {
             "name":"量子资源",
             "url":"http://cj.lziapi.com/api.php"
         }
