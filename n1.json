@@ -152,6 +152,11 @@
     ],
     "parses":[
         {
+            "name":"解析聚合",
+            "type":3,
+            "url":"Demo"
+        },
+        {
             "name":"Json并发",
             "type":2,
             "url":"Parallel"
@@ -177,6 +182,43 @@
                     "wasu",
                     "xigua",
                     "1905"
+                ]
+            }
+        },
+        {
+            "name":"jh",
+            "type":1,
+            "url":"http://103.40.240.46/jh/?url=",
+            "ext":{
+                "flag":[
+                    "renrenmi",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "xigua",
+                    "西瓜"
+                ]
+            }
+        },
+        {
+            "name":"nxflv1",
+            "type":1,
+            "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=",
+            "ext":{
+                "flag":[
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
                 ]
             }
         },
