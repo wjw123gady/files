@@ -8,7 +8,7 @@ https://raw-gh.gcdn.mirr.one/cyao2q/files/master/biubiu/bb.json
 
 https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json
 
-# TVbox [分享迷](https://www.fenxm.com/842.html)    [夸克网盘 ](https://pan.quark.cn/s/4990bab723a1#/list/share)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+# TVbox [夸克网盘 ](https://pan.quark.cn/s/4990bab723a1#/list/share)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)    [分享迷](https://www.fenxm.com/842.html)
 
 http://f.cyao.tk/n.json
 
