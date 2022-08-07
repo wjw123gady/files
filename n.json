@@ -204,6 +204,11 @@
             }
         },
         {
+            "name":"maotv",
+            "type":1,
+            "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
+        },
+        {
             "name":"nxflv1",
             "type":1,
             "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=",
