@@ -2,19 +2,19 @@
     "spider":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/jar/custom_spider.jar;md5;5ca684bc4005644fea4b068ede66e725",
     "sites":[
         {
-            "key":"快看资源",
-            "name":"快看资源",
+            "key":"酷云七七",
+            "name":"酷云七七",
             "type":3,
-            "api":"csp_Kuaikan",
+            "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
         },
         {
-            "key":"酷云七七",
-            "name":"酷云七七",
+            "key":"快看资源",
+            "name":"快看资源",
             "type":3,
-            "api":"csp_Kunyu77",
+            "api":"csp_Kuaikan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -167,7 +167,7 @@
             "url":"Sequence"
         },
         {
-            "name":"测试",
+            "name":"jhjson",
             "type":1,
             "url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
             "ext":{
