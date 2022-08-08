@@ -24,6 +24,9 @@ https://shuyuan.miaogongzi.net/shuyuan/1656721538.json
 
 [破解VIP会员视频](https://raw-gh.gcdn.mirr.one/cyao2q/files/master/script/crackvideo.user.js)
 
+# 订阅地址
+https://raw-gh.gcdn.mirr.one/cyao2q/files/master/fq.txt
+
 # 广告过滤规则
 
 https://fastly.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt
