@@ -1,5 +1,5 @@
 {
-    "spider":"http://f.cyao.tk/custom_spider.jar;md5;5ca684bc4005644fea4b068ede66e725",
+    "spider":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/jar/custom_spider.jar;md5;5ca684bc4005644fea4b068ede66e725",
     "sites":[
         {
             "key":"酷云七七",
@@ -54,7 +54,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/zxzj.json"
+            "ext":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/xpath/zxzj.json"
         },
         {
             "key":"LIBVIO",
@@ -64,7 +64,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/lib.json"
+            "ext":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/xpath/lib.json"
         },
         {
             "key":"蓝光影院",
@@ -74,7 +74,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/lgyy.json"
+            "ext":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/xpath/lgyy.json"
         },
         {
             "key":"789看片",
@@ -84,7 +84,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/789kp.json"
+            "ext":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/xpath/789kp.json"
         },
         {
             "key":"影视工厂",
@@ -94,7 +94,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/ysgc.json"
+            "ext":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/xpath/ysgc.json"
         },
         {
             "key":"剧白白",
@@ -104,7 +104,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/jubaibai.json"
+            "ext":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/xpath/jubaibai.json"
         },
         {
             "key":"天空V2",
@@ -124,7 +124,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/dm84.json"
+            "ext":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/xpath/dm84.json"
         },
         {
             "key":"哔哩哔哩",
@@ -134,7 +134,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/bili.json"
+            "ext":"https://raw-gh.gcdn.mirr.one/cyao2q/files/master/xpath/bili.json"
         }
     ],
     "lives":[
@@ -144,7 +144,7 @@
                 {
                     "name":"redirect",
                     "urls":[
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2YuY3lhby50ay9tYW9saXZlLnR4dA=="
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXctZ2guZ2Nkbi5taXJyLm9uZS9jeWFvMnEvZmlsZXMvbWFzdGVyL21hb2xpdmUudHh0"
                     ]
                 }
             ]
