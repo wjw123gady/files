@@ -163,7 +163,7 @@
             "response":{
                 "result":"$.data.content"
             },
-            "expires":"43200"
+            "expires":"20"
         }
     ],
     "recommend":[
