@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           破解VIP会员视频-优化整理版
 // @namespace      https://github.com/cyao2q/files
-// @version        1.0.2
+// @version        1.0.3
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
 // @license        MIT
@@ -91,17 +91,13 @@
     {title:"m3u8",url:"https://jx.m3u8.tv/jiexi/?url="},
     {title:"nxflv",url:"https://www.nxflv.com/?url="},
     {title:"m1907",url:"https://z1.m1907.cn/?jx="},
+    {title:"m2090",url:"http://m2090.com/?url="},
     {title:"bljiex",url:"https://vip.bljiex.com/?v="},
-    {title:"ckmov",url:"https://www.ckmov.vip/api.php?url="},
     {title:"jiexi",url:"https://api.jiexi.la/?url="},
-    {title:"playm3u8",url:"https://www.playm3u8.cn/jiexi.php?url="},
     {title:"pangujiexi",url:"https://www.pangujiexi.cc/jiexi.php?url="},
-    {title:"dj6u",url:"https://jx.dj6u.com/?url="},
     {title:"xmflv",url:"https://jx.xmflv.com/?url="},
-    {title:"h8jx",url:"https://www.h8jx.com/jiexi.php?url="},
     {title:"1717yun",url:"https://www.1717yun.com/jx/ty.php?url="},
     {title:"laobandq",url:"https://vip.laobandq.com/jiexi.php?url="},
-    {title:"8090g",url:"https://www.8090g.cn/?url="},
     {title:"sonimei",url:"http://www.sonimei.cn/?url="},
     {title:"wandhi",url:"http://tv.wandhi.com/go.html?url="}
   ];

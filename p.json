@@ -206,25 +206,6 @@
             }
         }
     ],
-    "pullWord":[
-        {
-            "name":"pullWord",
-            "request":{
-                "method":"GET",
-                "url":{
-                    "raw":"http://api.pullword.com/get.php?source={source}¶m1=0¶m2=0&json=1"
-                }
-            },
-            "response":{
-                "data":[
-                    {
-                        "key":"keyword",
-                        "value":"t"
-                    }
-                ]
-            }
-        }
-    ],
     "parses":[
         {
             "name":"解析聚合",
@@ -240,25 +221,6 @@
             "name":"Json轮询",
             "type":2,
             "url":"Sequence"
-        },
-        {
-            "name":"jhjson",
-            "type":1,
-            "url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
-            }
         },
         {
             "name":"jh",
@@ -279,9 +241,23 @@
             }
         },
         {
-            "name":"maotv",
+            "name":"jhjson",
             "type":1,
-            "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
+            "url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "ext":{
+                "flag":[
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
         },
         {
             "name":"nxflv1",
@@ -355,9 +331,19 @@
             "url":"https://jx.m3u8.tv/jiexi/?url="
         },
         {
-            "name":"ckmov",
+            "name":"bljiex",
             "type":0,
-            "url":"https://www.ckmov.vip/api.php?url="
+            "url":"https://vip.bljiex.com/?v="
+        },
+        {
+            "name":"blbo",
+            "type":0,
+            "url":"https://jx.blbo.cc:4433/?url="
+        },
+        {
+            "name":"zui",
+            "type":0,
+            "url":"https://jx.zui.cm/?url="
         },
         {
             "name":"jiexi",
@@ -365,49 +351,14 @@
             "url":"https://api.jiexi.la/?url="
         },
         {
-            "name":"playm3u8",
+            "name":"xmflv",
             "type":0,
-            "url":"https://www.playm3u8.cn/jiexi.php?url="
-        },
-        {
-            "name":"pangujiexi",
-            "type":0,
-            "url":"https://www.pangujiexi.cc/jiexi.php?url="
-        },
-        {
-            "name":"dj6u",
-            "type":0,
-            "url":"https://jx.dj6u.com/?url="
-        },
-        {
-            "name":"h8jx",
-            "type":0,
-            "url":"https://www.h8jx.com/jiexi.php?url="
-        },
-        {
-            "name":"1717yun",
-            "type":0,
-            "url":"https://www.1717yun.com/jx/ty.php?url="
-        },
-        {
-            "name":"laobandq",
-            "type":0,
-            "url":"https://vip.laobandq.com/jiexi.php?url="
-        },
-        {
-            "name":"8090g",
-            "type":0,
-            "url":"https://www.8090g.cn/?url="
+            "url":"https://jx.xmflv.com/?url="
         },
         {
             "name":"wandhi",
             "type":0,
             "url":"http://tv.wandhi.com/go.html?url="
-        },
-        {
-            "name":"xixicai",
-            "type":0,
-            "url":"https://www.xixicai.top/mov/s/?url="
         }
     ],
     "flags":[
