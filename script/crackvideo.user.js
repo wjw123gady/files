@@ -93,6 +93,7 @@
     {title:"m1907",url:"https://z1.m1907.cn/?jx="},
     {title:"m2090",url:"http://m2090.com/?url="},
     {title:"bljiex",url:"https://vip.bljiex.com/?v="},
+    {title:"blbo",url:"https://jx.blbo.cc:4433/?url="},
     {title:"jiexi",url:"https://api.jiexi.la/?url="},
     {title:"pangujiexi",url:"https://www.pangujiexi.cc/jiexi.php?url="},
     {title:"xmflv",url:"https://jx.xmflv.com/?url="},
