@@ -16,8 +16,6 @@ https://wds.ecsxs.com/223843.txt
 
 https://raw-gh.gcdn.mirr.one/cyao2q/files/master/n.json
 
-https://shuyuan.miaogongzi.net/shuyuan/1656721538.json
-
 [TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
 
 # 油猴脚本
