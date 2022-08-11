@@ -1,5 +1,5 @@
 {
-    "spider":"http://f.cyao.tk/custom_spider.jar;md5;5ca684bc4005644fea4b068ede66e725",
+    "spider":"http://f.cyao.tk/jar/custom_spider.jar;md5;5ca684bc4005644fea4b068ede66e725",
     "sites":[
         {
             "key":"酷云七七",
