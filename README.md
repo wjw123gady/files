@@ -1,6 +1,6 @@
 ## TV盒子软件
 
-## biubiu播放器 [蓝奏网盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
+## BiuBiu播放器 [蓝奏网盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
 
 http://f.cyao.tk/biubiu/bb.json
 
