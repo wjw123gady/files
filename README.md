@@ -1,6 +1,6 @@
 # biubiu播放器 [蓝奏网盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
 
-http://f.cyao.tk/bb.json
+http://f.cyao.tk/biubiu/bb.json
 
 https://pastebin.com/raw/4YZDxuEX
 
