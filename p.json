@@ -241,25 +241,6 @@
             }
         },
         {
-            "name":"jhjson",
-            "type":1,
-            "url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-            "ext":{
-                "flag":[
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
-            }
-        },
-        {
             "name":"nxflv1",
             "type":1,
             "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=",
