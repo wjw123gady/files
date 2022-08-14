@@ -6,6 +6,8 @@
 
 <https://pastebin.com/raw/4YZDxuEX>
 
+<https://freed.yuanhsing.cf/BiuBiu/bb.json>
+
 <https://raw-gh.gcdn.mirr.one/cyao2q/files/master/biubiu/bb.json>
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json>
@@ -15,6 +17,8 @@
 <https://f.cyao.tk/n.json>
 
 <https://wds.ecsxs.com/223843.txt>
+
+<https://freed.yuanhsing.cf/TVBox/meowcf.json>
 
 <https://raw-gh.gcdn.mirr.one/cyao2q/files/master/n.json>
 
