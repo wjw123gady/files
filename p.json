@@ -67,6 +67,16 @@
             "ext":"http://f.cyao.tk/xpath/lib.json"
         },
         {
+            "key":"csp_LiteApple",
+            "name":"小苹果(SP)",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"http://f.cyao.tk/jar/XBiubiuLA4.jar;md5;E5B305191B8A3118BFEDE03A27143C19"
+        },
+        {
             "key":"蓝光影院",
             "name":"蓝光影院(XP)",
             "type":3,
