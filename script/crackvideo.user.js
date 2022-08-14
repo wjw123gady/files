@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           破解VIP会员视频-优化整理版
 // @namespace      https://github.com/cyao2q/files
-// @version        1.0.3
+// @version        1.0.5
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
 // @license        MIT
@@ -88,11 +88,15 @@
   
   var apis =[
     {title:"parwix",url:"https://jx.bozrc.com:4433/player/?url="},
-    {title:"m3u8",url:"https://jx.m3u8.tv/jiexi/?url="},
+    {title:"618g",url:"https://jx.618g.com/?url="},
     {title:"nxflv",url:"https://www.nxflv.com/?url="},
+    {title:"m3u8",url:"https://jx.m3u8.tv/jiexi/?url="},
+    {title:"ckplayer",url:"https://www.ckplayer.vip/jiexi/?url="},
+    {title:"h8jx",url:"https://www.h8jx.com/jiexi.php?url="},
+    {title:"okjx",url:"https://okjx.cc/?url="},
+    {title:"dmjx",url:"https://dmjx.m3u8.tv/?url="},
+    {title:"m2090",url:"https://m2090.com/?url="},
     {title:"m1907",url:"https://z1.m1907.cn/?jx="},
-    {title:"m2090",url:"http://m2090.com/?url="},
-    {title:"bljiex",url:"https://vip.bljiex.com/?v="},
     {title:"blbo",url:"https://jx.blbo.cc:4433/?url="},
     {title:"jiexi",url:"https://api.jiexi.la/?url="},
     {title:"pangujiexi",url:"https://www.pangujiexi.cc/jiexi.php?url="},
