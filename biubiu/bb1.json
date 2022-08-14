@@ -38,12 +38,16 @@
             "url":"http://caiji.nxflv.com/api.php"
         },
         {
-            "name":"FOX资源",
-            "url":"https://api.foxzyapi.com/api.php"
+            "name":"江湖官采",
+            "url":"http://119.29.1.173/api.php"
         },
         {
             "name":"量子资源",
             "url":"http://cj.lziapi.com/api.php"
+        },
+        {
+            "name":"FOX资源",
+            "url":"https://api.foxzyapi.com/api.php"
         },
         {
             "name":"快播资源",
