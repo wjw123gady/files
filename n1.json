@@ -161,7 +161,7 @@
             "url":"Sequence"
         },
         {
-            "name":"Parwix",
+            "name":"parwix",
             "type":0,
             "url":"https://jx.bozrc.com:4433/player/?url=",
             "ext":{
