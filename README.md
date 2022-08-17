@@ -1,4 +1,4 @@
-## TV盒子软件
+## 漠星曜的分享站
 
 ## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
 
@@ -12,7 +12,7 @@
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json>
 
-## TVbox [蓝奏云盘](https://cyao.lanzouy.com/iLTSS09b5d1a)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+## TVBox [Telegram](https://t.me/TVBoxOSC)    [蓝奏云盘](https://cyao.lanzouy.com/iLTSS09b5d1a)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
 
 <https://f.cyao.tk/n.json>
 
