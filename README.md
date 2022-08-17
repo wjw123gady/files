@@ -12,8 +12,6 @@
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
-[TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
-
 ## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
 
 <https://f.cyao.tk/biubiu/bb.json>
