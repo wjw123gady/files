@@ -2,7 +2,7 @@
 
 导入链接 https://f.cyao.tk/yuedu/shuyuan
 
-![download](https://user-images.githubusercontent.com/10820724/185068360-243125f8-a366-4774-98d9-3d045b5fde83.png)
+![image](https://user-images.githubusercontent.com/10820724/185068693-f0698f9e-774c-4f0b-b795-d47b298f4e87.png)
 
 1.「阅读」APP 精品书源 https://github.com/XIU2/Yuedu
 
