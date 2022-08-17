@@ -26,6 +26,8 @@
 
 [TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
 
+## [阅读书源](/yuedu)
+
 ## 油猴脚本
 
 [破解VIP会员视频](https://f.cyao.tk/script/crackvideo.user.js)
