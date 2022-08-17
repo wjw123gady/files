@@ -20,15 +20,15 @@
 
 <https://freed.yuanhsing.cf/TVBox/meowcf.json>
 
-<https://raw-gh.gcdn.mirr.one/cyao2q/files/master/n.json>
+<https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
-<https://raw-gh.gcdn.mirr.one/cyao2q/files/master/p.json>
+<https://cdn.jsdelivr.net/gh/cyao2q/files@master/p.json>
 
 [TVbox本地懒人包](https://docs.qq.com/doc/DWmtIYkZBSUpKRWxR)
 
 ## 油猴脚本
 
-[破解VIP会员视频](https://raw-gh.gcdn.mirr.one/cyao2q/files/master/script/crackvideo.user.js)
+[破解VIP会员视频](https://f.cyao.tk/script/crackvideo.user.js)
 
 ## 订阅地址
 <https://raw-gh.gcdn.mirr.one/cyao2q/files/master/fq.txt>
