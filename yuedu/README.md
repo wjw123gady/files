@@ -26,13 +26,7 @@ https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
 
 https://shuyuan.miaogongzi.net/shuyuan/1630342495.json
 
-# A free CDN for Open Source
-
-https://g.cyao.workers.dev/
-
-https://www.jsdelivr.com/?docs=gh
-
-# 阅读APP
+# 阅读APP下载
 https://github.com/gedoor/legado/releases
 
 https://github.com/gedoor/legado/blob/master/app/src/main/assets/updateLog.md

@@ -12,7 +12,7 @@
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json>
 
-## TVBox [Telegram](https://t.me/TVBoxOSC)    [蓝奏云盘](https://cyao.lanzouy.com/iLTSS09b5d1a)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+## TVBox [蓝奏云盘](https://cyao.lanzouy.com/iLTSS09b5d1a)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
 
 <https://f.cyao.tk/n.json>
 
