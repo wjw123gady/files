@@ -1,7 +1,3 @@
-## 漠星曜的分享站
-
-[自用书源](https://cyao.tk/yuedu/)
-
 ## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
 
 <https://f.cyao.tk/biubiu/bb.json>
@@ -32,6 +28,10 @@
 
 ## 订阅地址
 <https://f.cyao.tk/fq.txt>
+
+## 阅读APP自用书源
+
+<https://cyao.tk/yuedu/>
 
 ## 广告过滤规则
 
