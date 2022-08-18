@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           破解VIP会员视频-优化整理版
-// @namespace      https://f.cyao.tk
+// @namespace      https://github.com/cyao2q/files
 // @version        1.0.6
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
