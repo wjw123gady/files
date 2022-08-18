@@ -20,9 +20,9 @@
 
 <https://f.cyao.tk/p.json>
 
-<https://wds.ecsxs.com/223843.txt>
+<https://liucn.cc/box/m.json>
 
-<https://freed.yuanhsing.cf/TVBox/meowcf.json>
+<https://wds.ecsxs.com/223843.txt>
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
