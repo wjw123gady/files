@@ -1,16 +1,6 @@
 ## 漠星曜的分享站
 
-## TVBox [蓝奏云盘](https://cyao.lanzouy.com/iLTSS09b5d1a)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
-
-<https://f.cyao.tk/n.json>
-
-<https://f.cyao.tk/p.json>
-
-<https://wds.ecsxs.com/223843.txt>
-
-<https://freed.yuanhsing.cf/TVBox/meowcf.json>
-
-<https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
+[自用书源](https://cyao.tk/yuedu/)
 
 ## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)     
 
@@ -23,6 +13,18 @@
 <https://raw-gh.gcdn.mirr.one/cyao2q/files/master/biubiu/bb.json>
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json>
+
+## TVBox [蓝奏云盘](https://cyao.lanzouy.com/iLTSS09b5d1a)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+
+<https://f.cyao.tk/n.json>
+
+<https://f.cyao.tk/p.json>
+
+<https://wds.ecsxs.com/223843.txt>
+
+<https://freed.yuanhsing.cf/TVBox/meowcf.json>
+
+<https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
 ## 油猴脚本
 
