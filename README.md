@@ -6,7 +6,7 @@
 
 <https://f.cyao.tk/p.json>
 
-<https://liucn.cc/box/m.json>
+<https://raw.liucn.cc/box/m.json>
 
 <https://wds.ecsxs.com/223843.txt>
 
