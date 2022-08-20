@@ -6,8 +6,6 @@
 
 <https://f.cyao.tk/p.json>
 
-<https://raw.liucn.cc/box/m.json>
-
 <https://wds.ecsxs.com/223843.txt>
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
