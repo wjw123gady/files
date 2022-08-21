@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           破解VIP会员视频-优化整理版
 // @namespace      https://github.com/cyao2q/files
-// @version        1.0.8
+// @version        1.0.9
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
 // @license        MIT
@@ -70,11 +70,11 @@
     #TMHYul{position:fixed;top:5em;left:0;padding:0;z-index:999999;}
     #TMHYul li{list-style:none;}
     #TMHYul svg{float:right;}
-    .TM1{opacity:0.8;position:relative;width:2.3em;cursor:pointer;}
+    .TM1{opacity:0.8;position:relative;width:1.9em;cursor:pointer;}
     .TM1:hover{opacity:1;}
     .TM1 span{display:block;border-radius:0 .3em .3em 0;background-color:#ffff00;border:0;font:bold 1em "微软雅黑"!important;color:#ff0000;margin:0;padding:1em .3em;}
     .TM3{position:absolute;top:0;left:1.8em;display:none;border-radius:.3em;margin:0;padding:0;}
-    .TM3 li{float:none;margin:0;font-size:1.3em;padding:.25em 1em;cursor:pointer;color:#3a3a3a!important;background:rgba(255,255,0,0.8);}
+    .TM3 li{float:none;margin:0;font-size:1.25em;padding:.25em 1em;cursor:pointer;color:#3a3a3a!important;background:rgba(255,255,0,0.8);}
     .TM3 li:hover{color:white!important;background:rgba(0,0,0,.8);}
     .TM3 li:last-child{border-radius:0 0 .35em .35em;}
     .TM3 li:first-child{border-radius:.35em .35em 0 0;}
@@ -88,20 +88,20 @@
   
   var apis =[
     {title:"parwix",url:"https://jx.bozrc.com:4433/player/?url="},
-    {title:"nxflv",url:"https://www.nxflv.com/?url="},
-    {title:"m2090",url:"https://m2090.com/?url="},
     {title:"m1907",url:"https://z1.m1907.cn/?jx="},
+    {title:"m2090",url:"https://m2090.com/?url="},
+    {title:"nxflv",url:"https://www.nxflv.com/?url="},
     {title:"mtosz",url:"https://www.mtosz.com/m3u8.php?url="},
-    {title:"m3u8",url:"https://jx.m3u8.tv/jiexi/?url="},
     {title:"bingdou",url:"https://api.qianqi.net/vip/?url="},
+    {title:"m3u8",url:"https://jx.m3u8.tv/jiexi/?url="},
+    {title:"laoban",url:"https://vip.laobandq.com/jiexi.php?url="},
     {title:"ckmov",url:"https://www.ckmov.vip/api.php?url="},
     {title:"okjx",url:"https://okjx.cc/?url="},
     {title:"xmflv",url:"https://jx.xmflv.com/?url="},
     {title:"blbo",url:"https://jx.blbo.cc:4433/?url="},
     {title:"zui",url:"https://jx.zui.cm/?url="},
     {title:"jiexi",url:"https://api.jiexi.la/?url="},
-    {title:"1717yun",url:"https://www.1717yun.com/jx/ty.php?url="},
-    {title:"laobandq",url:"https://vip.laobandq.com/jiexi.php?url="}
+    {title:"1717",url:"https://www.1717yun.com/jx/ty.php?url="}
   ];
 
   /*  执行  */
