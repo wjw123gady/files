@@ -4,7 +4,7 @@
 
 ## TVBox
 
-[蓝奏云盘](https://cyao.lanzouy.com/iLTSS09b5d1a)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+[直接下载](http://f.cyao.ml/app/xyys.apk "tvbox20220818-1749")    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
 
 <https://f.cyao.tk/n.json>
 
@@ -14,7 +14,7 @@
 
 ## PlutoPlayer
 
-[v1.3.2下载](https://cyao.lanzouy.com/iYJmz09qodng)
+[直接下载](http://f.cyao.ml/app/pluto.apk "v1.3.2")
 
 <https://f.cyao.tk/p.json>
 
