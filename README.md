@@ -1,14 +1,22 @@
+## TV盒子软件
+
+<https://f.cyao.tk/>
+
 ## TVBox
 
 [蓝奏云盘](https://cyao.lanzouy.com/iLTSS09b5d1a)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
 
 <https://f.cyao.tk/n.json>
 
-<https://f.cyao.tk/p.json>
-
 <https://wds.ecsxs.com/223843.txt>
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
+
+## PlutoPlayer
+
+[v1.3.2下载](https://cyao.lanzouy.com/iYJmz09qodng)
+
+<https://f.cyao.tk/p.json>
 
 ## BiuBiu播放器
 
