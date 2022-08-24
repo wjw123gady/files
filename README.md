@@ -1,8 +1,6 @@
-## TV盒子软件
+## [TV盒子软件](https://f.cyao.tk/)
 
 [TV软件汇总](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
-
-<https://f.cyao.tk/>
 
 ## TVBox
 
