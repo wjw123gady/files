@@ -76,16 +76,6 @@
             "ext":"http://f.cyao.tk/xpath/lgyy.json"
         },
         {
-            "key":"789看片",
-            "name":"789看片(XP)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/789kp.json"
-        },
-        {
             "key":"影视工厂",
             "name":"影视工厂(XB)",
             "type":3,
@@ -104,16 +94,6 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"http://f.cyao.tk/xpath/tegouys.json"
-        },
-        {
-            "key":"F7好看剧",
-            "name":"F7好看剧(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/haokanju1.json"
         },
         {
             "key":"剧白白",
