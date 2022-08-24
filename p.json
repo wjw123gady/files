@@ -87,13 +87,33 @@
         },
         {
             "key":"影视工厂",
-            "name":"影视工厂(XBiubiu)",
+            "name":"影视工厂(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
             "ext":"http://f.cyao.tk/xpath/ysgc.json"
+        },
+        {
+            "key":"特狗影视",
+            "name":"特狗影视(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://f.cyao.tk/xpath/tegouys.json"
+        },
+        {
+            "key":"F7好看剧",
+            "name":"F7好看剧(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://f.cyao.tk/xpath/haokanju1.json"
         },
         {
             "key":"剧白白",

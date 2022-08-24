@@ -4,17 +4,19 @@
 
 ## TVBox
 
-[直接下载](http://f.cyao.ml/app/xyys.apk "tvbox20220818-1749")    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+[直接下载](http://f.cyao.ml/app/xyys.apk)    [蓝奏云盘](https://cyao.lanzouy.com/i5vm209uwn4j)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
 
 <https://f.cyao.tk/n.json>
 
 <https://wds.ecsxs.com/223843.txt>
 
+<https://freed.yuanhsing.cf/TVBox/meowcf.json>
+
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
 ## PlutoPlayer
 
-[直接下载](http://f.cyao.ml/app/pluto.apk "v1.3.2")
+[直接下载](http://f.cyao.ml/app/pluto.apk)    [蓝奏云盘](https://cyao.lanzouy.com/iYJmz09qodng)
 
 <https://f.cyao.tk/p.json>
 
