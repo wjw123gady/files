@@ -1,10 +1,12 @@
 ## TV盒子软件
 
+[TV软件汇总](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+
 <https://f.cyao.tk/>
 
 ## TVBox
 
-[直接下载](http://f.cyao.ml/app/xyys.apk)    [蓝奏云盘](https://cyao.lanzouy.com/i5vm209uwn4j)    [分享迷](https://www.fenxm.com/842.html)    [腾讯文档](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+[直接下载](http://f.cyao.ml/app/xyys.apk)    [蓝奏云盘](https://cyao.lanzouy.com/i5vm209uwn4j)    [分享迷](https://www.fenxm.com/842.html)
 
 <https://f.cyao.tk/n.json>
 
