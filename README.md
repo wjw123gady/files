@@ -1,10 +1,8 @@
-## [TV盒子软件](https://f.cyao.tk/)
+## TV盒子软件
 
-[TV软件汇总](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv)
+<https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv>
 
-## TVBox
-
-[直接下载](http://f.cyao.ml/app/xyys.apk)    [蓝奏云盘](https://cyao.lanzouy.com/iW4zw0a7nsih)    [分享迷](https://www.fenxm.com/842.html)
+## TVBox [直接下载](http://f.cyao.ml/app/xyys.apk) [蓝奏云盘](https://cyao.lanzouy.com/iW4zw0a7nsih) [分享迷](https://www.fenxm.com/842.html)
 
 <https://f.cyao.tk/n.json>
 
@@ -14,15 +12,11 @@
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
-## PlutoPlayer
-
-[直接下载](http://f.cyao.ml/app/pluto.apk)    [蓝奏云盘](https://cyao.lanzouy.com/iYJmz09qodng)
+## PlutoPlayer [直接下载](http://f.cyao.ml/app/pluto.apk) [蓝奏云盘](https://cyao.lanzouy.com/iYJmz09qodng)
 
 <https://f.cyao.tk/p.json>
 
-## BiuBiu播放器
-
-[蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe)    [分享迷](https://www.fenxm.com/806.html)   
+## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe) [分享迷](https://www.fenxm.com/806.html)   
 
 <https://f.cyao.tk/biubiu/bb.json>
 
@@ -37,9 +31,6 @@
 ## 油猴脚本
 
 [破解VIP会员视频](https://f.cyao.tk/script/crackvideo.user.js)
-
-## 订阅地址
-<https://f.cyao.tk/fq.txt>
 
 ## 阅读APP自用书源
 
