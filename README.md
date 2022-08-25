@@ -4,7 +4,7 @@
 
 ## TVBox
 
-[直接下载](http://f.cyao.ml/app/xyys.apk)    [蓝奏云盘](https://cyao.lanzouy.com/i5vm209uwn4j)    [分享迷](https://www.fenxm.com/842.html)
+[直接下载](http://f.cyao.ml/app/xyys.apk)    [蓝奏云盘](https://cyao.lanzouy.com/iW4zw0a7nsih)    [分享迷](https://www.fenxm.com/842.html)
 
 <https://f.cyao.tk/n.json>
 
