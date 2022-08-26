@@ -66,6 +66,16 @@
             "ext":"http://f.cyao.tk/xpath/lib.json"
         },
         {
+            "key":"完美看看",
+            "name":"完美看看(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/xpath/wmkankan.json"
+        },
+        {
             "key":"蓝光影院",
             "name":"蓝光影院(XP)",
             "type":3,
