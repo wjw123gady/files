@@ -2,7 +2,7 @@
 
 <https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv>
 
-## TVBox [直接下载](http://f.cyao.ml/app/xyys.apk) [蓝奏云盘](https://cyao.lanzouy.com/iW4zw0a7nsih) [分享迷](https://www.fenxm.com/842.html)
+## TVBox [直接下载](http://g.cyao.ml/app/xyys.apk) [蓝奏云盘](https://cyao.lanzouy.com/iW4zw0a7nsih) [分享迷](https://www.fenxm.com/842.html)
 
 <https://f.cyao.tk/n.json>
 
@@ -12,7 +12,7 @@
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
-## PlutoPlayer [直接下载](http://f.cyao.ml/app/pluto.apk) [蓝奏云盘](https://cyao.lanzouy.com/iYJmz09qodng)
+## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [蓝奏云盘](https://cyao.lanzouy.com/iYJmz09qodng)
 
 <https://f.cyao.tk/p.json>
 
