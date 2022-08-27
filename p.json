@@ -105,6 +105,16 @@
             "ext":"http://f.cyao.tk/xpath/lgyy.json"
         },
         {
+            "key":"影视之光",
+            "name":"影视之光(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://f.cyao.tk/xpath/yszg.json"
+        },
+        {
             "key":"影视工厂",
             "name":"影视工厂(XB)",
             "type":3,
@@ -162,7 +172,18 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/bili.json"
+            "ext":"http://f.cyao.tk/xpath/bili.txt"
+        },
+        {
+            "key":"阿里盘搜",
+            "name":"阿里盘搜(仅搜索)",
+            "type":3,
+            "api":" csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"7bb5b24ca3274ad781a6071082e9eebd",
+            "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
         }
     ],
     "lives":[
