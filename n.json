@@ -62,7 +62,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/zxzj.json"
+            "ext":"http://f.cyao.tk/ext/zxzj.json"
         },
         {
             "key":"LIBVIO",
@@ -72,7 +72,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/lib.json"
+            "ext":"http://f.cyao.tk/ext/lib.json"
         },
         {
             "key":"完美看看",
@@ -82,7 +82,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/wmkankan.json"
+            "ext":"http://f.cyao.tk/ext/wmkankan.json"
         },
         {
             "key":"789看片",
@@ -92,7 +92,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/789kp.json"
+            "ext":"http://f.cyao.tk/ext/789kp.json"
         },
         {
             "key":"蓝光影院",
@@ -102,7 +102,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/lgyy.json"
+            "ext":"http://f.cyao.tk/ext/lgyy.json"
         },
         {
             "key":"影视之光",
@@ -112,7 +112,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/yszg.json"
+            "ext":"http://f.cyao.tk/ext/yszg.json"
         },
         {
             "key":"影视工厂",
@@ -122,7 +122,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/ysgc.json"
+            "ext":"http://f.cyao.tk/ext/ysgc.json"
         },
         {
             "key":"特狗影视",
@@ -132,7 +132,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/tegouys.json"
+            "ext":"http://f.cyao.tk/ext/tegouys.json"
         },
         {
             "key":"剧白白",
@@ -142,7 +142,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/jubaibai.json"
+            "ext":"http://f.cyao.tk/ext/jubaibai.json"
         },
         {
             "key":"天空V2",
@@ -162,7 +162,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/xpath/dm84.json"
+            "ext":"http://f.cyao.tk/ext/dm84.json"
         },
         {
             "key":"哔哩哔哩",
@@ -172,7 +172,19 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/xpath/bili.txt"
+            "ext":"http://f.cyao.tk/ext/B站.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
+        },
+        {
+            "key":"歌曲MV",
+            "name":"歌曲MV(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/歌曲.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
         },
         {
             "key":"阿里盘搜",
