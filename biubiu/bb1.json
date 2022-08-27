@@ -1,10 +1,6 @@
 ﻿{
     "zhuyejiekou":[
         {
-            "name":"默认主页",
-            "url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"
-        },
-        {
             "name":"9亿国语",
             "url":"http://vod.9e03.com/lvdou_api.php/v1.vod"
         },
