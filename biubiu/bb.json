@@ -17,13 +17,17 @@
             "url":"https://www.tkys.tv/xgapp.php/v2/"
         }
     ],
-    "zhujiexi":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url=#https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=",
+    "zhujiexi":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url=#https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=#http://newjiexi.gotka.top/keyu3.php?url=",
     "beiyongjiexi":"https://jx.bozrc.com:4433/player/?url=#https://www.nxflv.com/?url=#https://www.mtosz.com/m3u8.php?url=#https://jx.m3u8.tv/jiexi/?url=#https://api.qianqi.net/vip/?url=#https://m2090.com/?url=#https://www.ckmov.vip/api.php?url=#https://okjx.cc/?url=#https://jx.xmflv.com/?url=#https://vip.bljiex.com/?v=#https://jx.blbo.cc:4433/?url=#https://jx.zui.cm/?url=#https://www.ckplayer.vip/jiexi/?url=#https://z1.m1907.cn/?jx=#https://api.jiexi.la/?url=#https://www.1717yun.com/jx/ty.php?url=",
     "dianshizhibo":"http://f.cyao.ml/bblive.txt",
     "caijizhan":[
         {
             "name":"酷云七七",
             "url":"http://api.kunyu77.com/api.php"
+        },
+        {
+            "name":"飘花资源",
+            "url":"http://www.zzrhgg.com/api.php"
         },
         {
             "name":"诺讯资源",
