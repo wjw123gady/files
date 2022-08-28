@@ -1,5 +1,5 @@
 {
-    "spider":"http://f.cyao.tk/jar/custom_spider.jar;md5;5ca684bc4005644fea4b068ede66e725",
+    "spider":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8",
     "sites":[
         {
             "key":"江湖官采",
@@ -172,8 +172,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/B站.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
+            "ext":"http://f.cyao.tk/ext/B站.txt"
         },
         {
             "key":"歌曲MV",
@@ -183,8 +182,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/歌曲.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
+            "ext":"http://f.cyao.tk/ext/歌曲.txt"
         },
         {
             "key":"阿里盘搜",
@@ -194,8 +192,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"7bb5b24ca3274ad781a6071082e9eebd",
-            "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
+            "ext":"7bb5b24ca3274ad781a6071082e9eebd"
         }
     ],
     "lives":[
