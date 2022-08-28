@@ -166,7 +166,7 @@
         },
         {
             "key":"哔哩哔哩",
-            "name":"哔哩哔哩(B站)",
+            "name":"哔哩哔哩(Bili)",
             "type":3,
             "api":"csp_Bili",
             "searchable":1,
@@ -176,47 +176,14 @@
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
         },
         {
-            "key":"演唱会",
-            "name":"演唱会(B站)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/演唱会.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
-        },
-        {
             "key":"歌曲MV",
-            "name":"歌曲MV(B站)",
+            "name":"歌曲MV(Bili)",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
             "ext":"http://f.cyao.tk/ext/歌曲.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
-        },
-        {
-            "key":"相声小品",
-            "name":"相声小品(B站)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/相声.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
-        },
-        {
-            "key":"国粹戏曲",
-            "name":"国粹戏曲(B站)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/戏曲.txt",
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
         },
         {
