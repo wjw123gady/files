@@ -204,6 +204,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
+            "ext": "3781469b13074e4cac1e0e7113e4fa20",
             "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
         },
         {
@@ -214,6 +215,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
+            "ext": "3781469b13074e4cac1e0e7113e4fa20",
             "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
         }
     ],
