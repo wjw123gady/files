@@ -187,6 +187,16 @@
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
         },
         {
+            "key":"LiteApple",
+            "name":"小苹果(LiteApple)",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"http://f.cyao.tk/jar/jj.jar;md5;FE05AB5A06AF17292F3D61712908788D"
+        },
+        {
             "key":"小纸条",
             "name":"小纸条(云盘)",
             "type":3,
@@ -194,8 +204,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"7bb5b24ca3274ad781a6071082e9eebd",
-            "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
+            "jar":"http://f.cyao.tk/jar/jj.jar;md5;FE05AB5A06AF17292F3D61712908788D"
         },
         {
             "key":"猫狸盘搜",
@@ -205,8 +214,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"7bb5b24ca3274ad781a6071082e9eebd",
-            "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
+            "jar":"http://f.cyao.tk/jar/jj.jar;md5;FE05AB5A06AF17292F3D61712908788D"
         }
     ],
     "lives":[
