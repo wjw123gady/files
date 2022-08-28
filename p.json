@@ -187,8 +187,19 @@
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
         },
         {
-            "key":"阿里盘搜",
-            "name":"阿里盘搜(仅搜索)",
+            "key":"小纸条",
+            "name":"小纸条(云盘)",
+            "type":3,
+            "api":"csp_Gitcafe",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"7bb5b24ca3274ad781a6071082e9eebd",
+            "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
+        },
+        {
+            "key":"猫狸盘搜",
+            "name":"猫狸盘搜(云盘)",
             "type":3,
             "api":" csp_AliPS",
             "searchable":1,
