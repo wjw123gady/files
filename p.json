@@ -172,17 +172,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/B站.txt"
-        },
-        {
-            "key":"歌曲MV",
-            "name":"歌曲MV(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/歌曲.txt"
+            "ext":"http://f.cyao.tk/ext/bili.json"
         },
         {
             "key":"阿里盘搜",
@@ -192,7 +182,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"7bb5b24ca3274ad781a6071082e9eebd"
+            "ext":"7bb5b24ca3274ad781a6071082e9eebd",
+            "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
         }
     ],
     "lives":[
