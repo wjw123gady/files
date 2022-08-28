@@ -173,7 +173,7 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"http://f.cyao.tk/ext/B站.txt",
-            "plugin":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
         },
         {
             "key":"歌曲MV",
@@ -184,7 +184,7 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"http://f.cyao.tk/ext/歌曲.txt",
-            "plugin":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8"
         },
         {
             "key":"阿里盘搜",
@@ -195,7 +195,7 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"7bb5b24ca3274ad781a6071082e9eebd",
-            "plugin":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
+            "jar":"http://f.cyao.tk/jar/aliso.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
         }
     ],
     "lives":[
