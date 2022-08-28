@@ -1,5 +1,5 @@
 {
-    "spider":"http://f.cyao.tk/jar/bili.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8",
+    "spider":"http://f.cyao.tk/jar/spider.jar;md5;5CA684BC4005644FEA4B068EDE66E725",
     "sites":[
         {
             "key":"江湖官采",
@@ -54,18 +54,6 @@
             "searchable":1,
             "quickSearch":1
         },
-        
-        {"key":"csp_xp_libv","name":"💢Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/sub/MeowXP/libv.json"},
-
-        
-        {"key":"csp_Zxzj","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/sub/MeowXP/zxzj2.json"},
-
-
-{"key":"csp_xbb_在线之家","name":"🍀在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/sub/MeowXB/在线之家.json"},
-
-
         {
             "key":"在线之家",
             "name":"在线之家(XP)",
