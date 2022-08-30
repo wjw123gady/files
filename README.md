@@ -10,6 +10,8 @@
 
 <https://freed.yuanhsing.cf/TVBox/meowcf.json>
 
+<https://gitea.com/zwx/itv/raw/branch/dev/v/ys.json>
+
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
 ## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [蓝奏云盘](https://cyao.lanzouy.com/iYJmz09qodng)
