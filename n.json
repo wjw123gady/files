@@ -1,5 +1,5 @@
 {
-    "spider":"http://f.cyao.tk/jar/spider.jar;md5;5CA684BC4005644FEA4B068EDE66E725",
+    "spider":"http://f.cyao.tk/jar/ys.jar;md5;EDE533A2C3B863C413E03C2BEB37585E",
     "sites":[
         {
             "key":"江湖官采",
@@ -10,10 +10,10 @@
             "quickSearch":1
         },
         {
-            "key":"厂长资源",
-            "name":"厂长资源",
+            "key":"酷云七七",
+            "name":"酷云七七",
             "type":3,
-            "api":"csp_Czsapp",
+            "api":"csp_Kunyu77",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -26,6 +26,14 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"厂长资源",
+            "name":"厂长资源",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1
         },
         {
             "key":"诺讯资源",
