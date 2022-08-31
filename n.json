@@ -27,15 +27,6 @@
             "quickSearch":1
         },
         {
-            "key":"诺讯资源",
-            "name":"诺讯资源",
-            "type":1,
-            "api":"https://caiji.nxflv.com/api.php/provide/vod/",
-            "playUrl":"https://www.nxflv.com/?url=",
-            "searchable":1,
-            "quickSearch":1
-        },
-        {
             "key":"量子资源",
             "name":"量子资源",
             "type":1,
