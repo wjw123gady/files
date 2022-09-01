@@ -8,10 +8,6 @@
 
 <https://wds.ecsxs.com/223843.txt>
 
-<https://freed.yuanhsing.cf/TVBox/meowcf.json>
-
-<https://gitea.com/zwx/itv/raw/branch/dev/v/ys.json>
-
 <https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json>
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
@@ -20,13 +16,13 @@
 
 <https://f.cyao.tk/p.json>
 
+<https://gitea.com/zwx/itv/raw/branch/dev/v/ys.json>
+
 ## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe) [分享迷](https://www.fenxm.com/806.html)   
 
 <https://f.cyao.tk/biubiu/bb.json>
 
 <https://pastebin.com/raw/4YZDxuEX>
-
-<https://freed.yuanhsing.cf/BiuBiu/bb.json>
 
 <https://raw-gh.gcdn.mirr.one/cyao2q/files/master/biubiu/bb.json>
 

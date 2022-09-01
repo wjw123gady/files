@@ -56,14 +56,22 @@
             "quickSearch":1
         },
         {
-            "key":"在线之家",
-            "name":"在线之家(XP)",
+            "key":"555电影",
+            "name":"555电影",
             "type":3,
-            "api":"csp_XPath",
+            "api":"csp_Dy555",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/zxzj.json"
+            "filterable":1
+        },
+        {
+            "key":"LiteApple",
+            "name":"LiteApple",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"LIBVIO",
@@ -76,59 +84,44 @@
             "ext":"http://f.cyao.tk/ext/lib.json"
         },
         {
-            "key":"哔哩哔哩",
-            "name":"哔哩哔哩(Bili)",
+            "key":"剧白白",
+            "name":"剧白白(XP)",
             "type":3,
-            "api":"csp_Bili",
+            "api":"csp_XPathMacFilter",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/B站.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+            "ext":"http://f.cyao.tk/ext/jubaibai.json"
         },
         {
-            "key":"相声小品",
-            "name":"相声小品(Bili)",
+            "key":"天空V2",
+            "name":"天空V2(M2)",
             "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
+            "api":"csp_AppYsV2",
+            "searchable":1,
             "quickSearch":0,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/相声.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+            "ext":"https://www.tkys.tv/xgapp.php/v2/"
         },
         {
-            "key":"国粹戏曲",
-            "name":"国粹戏曲(Bili)",
+            "key":"789看片",
+            "name":"789看片(XP)",
             "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/戏曲.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+            "ext":"http://f.cyao.tk/ext/789kp.json"
         },
         {
-            "key":"歌曲MV",
-            "name":"歌曲MV(Bili)",
+            "key":"在线之家",
+            "name":"在线之家(XP)",
             "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
+            "api":"csp_XPath",
+            "searchable":1,
+            "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/歌曲.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
-        },
-        {
-            "key":"演唱会",
-            "name":"演唱会(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/演唱会.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+            "ext":"http://f.cyao.tk/ext/zxzj.json"
         },
         {
             "key":"完美看看",
@@ -181,54 +174,6 @@
             "ext":"http://f.cyao.tk/ext/tegouys.json"
         },
         {
-            "key":"Dy555",
-            "name":"555电影(Dy555)",
-            "type":3,
-            "api":"csp_Dy555",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"LiteApple",
-            "name":"小苹果(LiteApple)",
-            "type":3,
-            "api":"csp_LiteApple",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"789看片",
-            "name":"789看片(XP)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/789kp.json"
-        },
-        {
-            "key":"剧白白",
-            "name":"剧白白(XP)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/jubaibai.json"
-        },
-        {
-            "key":"天空V2",
-            "name":"天空V2(M2)",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://www.tkys.tv/xgapp.php/v2/"
-        },
-        {
             "key":"动漫巴士",
             "name":"动漫巴士(XP)",
             "type":3,
@@ -246,6 +191,61 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"哔哩哔哩",
+            "name":"哔哩哔哩(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/B站.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+        },
+        {
+            "key":"相声小品",
+            "name":"相声小品(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/相声.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+        },
+        {
+            "key":"国粹戏曲",
+            "name":"国粹戏曲(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/戏曲.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+        },
+        {
+            "key":"歌曲MV",
+            "name":"歌 曲 MV(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/歌曲.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+        },
+        {
+            "key":"演唱会",
+            "name":"演 唱 会(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/演唱会.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
         },
         {
             "key":"猫狸盘搜",
