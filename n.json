@@ -65,15 +65,6 @@
             "filterable":1
         },
         {
-            "key":"小苹果影视",
-            "name":"小苹果影视",
-            "type":3,
-            "api":"csp_LiteApple",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"LIBVIO",
             "name":"LIBVIO(XP)",
             "type":3,
@@ -246,6 +237,15 @@
             "filterable":1,
             "ext":"http://f.cyao.tk/ext/演唱会.txt",
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+        },
+        {
+            "key":"LiteApple",
+            "name":"小苹果(LiteApple)",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"猫狸盘搜",
