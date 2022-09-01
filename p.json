@@ -155,16 +155,6 @@
             "ext":"http://f.cyao.tk/ext/ysgc.json"
         },
         {
-            "key":"特狗影视",
-            "name":"特狗影视(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://f.cyao.tk/ext/tegouys.json"
-        },
-        {
             "key":"动漫巴士",
             "name":"动漫巴士(XP)",
             "type":3,
