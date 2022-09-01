@@ -76,15 +76,6 @@
             "ext":"http://f.cyao.tk/ext/lib.json"
         },
         {
-            "key":"T4",
-            "name":"T4公共",
-            "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"哔哩哔哩",
             "name":"哔哩哔哩(Bili)",
             "type":3,
@@ -93,28 +84,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"http://f.cyao.tk/ext/B站.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
-        },
-        {
-            "key":"演唱会",
-            "name":"演唱会(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/演唱会.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
-        },
-        {
-            "key":"歌曲MV",
-            "name":"歌曲MV(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/歌曲.txt",
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
         },
         {
@@ -137,6 +106,28 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"http://f.cyao.tk/ext/戏曲.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+        },
+        {
+            "key":"歌曲MV",
+            "name":"歌曲MV(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/歌曲.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+        },
+        {
+            "key":"演唱会",
+            "name":"演唱会(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/演唱会.txt",
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
         },
         {
@@ -190,6 +181,24 @@
             "ext":"http://f.cyao.tk/ext/tegouys.json"
         },
         {
+            "key":"Dy555",
+            "name":"555电影(Dy555)",
+            "type":3,
+            "api":"csp_Dy555",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"LiteApple",
+            "name":"小苹果(LiteApple)",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"789看片",
             "name":"789看片(XP)",
             "type":3,
@@ -230,19 +239,10 @@
             "ext":"http://f.cyao.tk/ext/dm84.json"
         },
         {
-            "key":"Dy555",
-            "name":"555电影(Dy555)",
-            "type":3,
-            "api":"csp_Dy555",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"LiteApple",
-            "name":"小苹果(LiteApple)",
-            "type":3,
-            "api":"csp_LiteApple",
+            "key":"T4",
+            "name":"开始观看(T4)",
+            "type":4,
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
