@@ -195,6 +195,17 @@
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
         },
         {
+            "key":"歌曲MV",
+            "name":"歌 曲 MV(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://f.cyao.tk/ext/歌曲.txt",
+            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+        },
+        {
             "key":"相声小品",
             "name":"相声小品(Bili)",
             "type":3,
@@ -214,28 +225,6 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"http://f.cyao.tk/ext/戏曲.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
-        },
-        {
-            "key":"歌曲MV",
-            "name":"歌 曲 MV(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/歌曲.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
-        },
-        {
-            "key":"演唱会",
-            "name":"演 唱 会(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"http://f.cyao.tk/ext/演唱会.txt",
             "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
         },
         {
