@@ -186,7 +186,7 @@
         },
         {
             "key":"歌曲MV",
-            "name":"歌 曲 MV(Bili)",
+            "name":"歌曲MV(Bili)",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
