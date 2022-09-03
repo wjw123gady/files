@@ -1,5 +1,5 @@
 {
-    "spider":"http://f.cyao.tk/jar/jj.jar;md5;FE05AB5A06AF17292F3D61712908788D",
+    "spider":"http://f.cyao.tk/jar/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
     "sites":[
         {
             "key":"江湖官采",
@@ -8,6 +8,15 @@
             "api":"http://119.29.1.173/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1
+        },
+        {
+            "key":"酷云七七",
+            "name":"酷云七七",
+            "type":3,
+            "api":"csp_Kunyu77",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"快看资源",
@@ -27,6 +36,15 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMjRUMTA6MjE6NTEuOTk0KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMTcyNTk4MzY0QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjBlYWViNjY5LWY3OWQtNDdhNS1iYTM2LTA2NjQ5OTJkMjY2YyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOiIyMDIyLTA4LTI0VDEwOjIxOjUxLjk5MyswODowMCIsInJlZ19rZXkiOiI3MTYxMjA4OCIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjE5MTI1NTUsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.pVELLcrhOIzquIzB8NN16uu3YS_4Vn4pV40yMT6KxL4"
+        },
+        {
+            "key":"厂长资源",
+            "name":"厂长资源",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
         },
         {
             "key":"诺讯资源",
@@ -73,6 +91,15 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"http://f.cyao.tk/ext/lib.json"
+        },
+        {
+            "key":"看视界",
+            "name":"看视界",
+            "type":3,
+            "api":"csp_KanSJ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"剧白白",
@@ -225,6 +252,16 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },
+        {
+            "key":"Gitcafe",
+            "name":"小纸条",
+            "type":3,
+            "api":"csp_Gitcafe",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key":"猫狸盘搜",
