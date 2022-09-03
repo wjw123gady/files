@@ -24,9 +24,17 @@
 
 <https://pastebin.com/raw/4YZDxuEX>
 
-<https://raw-gh.gcdn.mirr.one/cyao2q/files/master/biubiu/bb.json>
+<https://raw.iqiq.io/cyao2q/files/master/biubiu/bb.json>
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json>
+
+# Github加速服务
+
+<https://raw.iqiq.io/cyao2q/files/master/n.json>
+
+<https://raw.githubusercontents.com/cyao2q/files/master/biubiu/bb.json>
+
+<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/biubiu/bb.json>
 
 ## 油猴脚本
 
