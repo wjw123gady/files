@@ -12,7 +12,7 @@
 
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
-## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [蓝奏云盘](https://cyao.lanzouy.com/iYJmz09qodng)
+## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [蓝奏云盘](https://cyao.lanzouy.com/iMxgz0argadc)
 
 <https://f.cyao.tk/p.json>
 
