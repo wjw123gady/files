@@ -208,8 +208,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/B站.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+            "ext":"http://f.cyao.tk/ext/B站.txt"
         },
         {
             "key":"歌曲MV",
@@ -219,8 +218,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/歌曲.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+            "ext":"http://f.cyao.tk/ext/歌曲.txt"
         },
         {
             "key":"相声小品",
@@ -230,8 +228,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/相声.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+            "ext":"http://f.cyao.tk/ext/相声.txt"
         },
         {
             "key":"国粹戏曲",
@@ -241,8 +238,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/戏曲.txt",
-            "jar":"http://f.cyao.tk/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"
+            "ext":"http://f.cyao.tk/ext/戏曲.txt"
         },
         {
             "key":"T4",
