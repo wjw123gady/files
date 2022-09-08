@@ -1,5 +1,5 @@
 {
-    "spider":"http://f.cyao.tk/jar/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
+    "spider":"https://f.cyao.tk/jar/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
     "sites":[
         {
             "key":"江湖官采",
@@ -71,7 +71,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/lib.json"
+            "ext":"https://f.cyao.tk/ext/lib.json"
         },
         {
             "key":"剧白白",
@@ -81,7 +81,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/jubaibai.json"
+            "ext":"https://f.cyao.tk/ext/jubaibai.json"
         },
         {
             "key":"天空V2",
@@ -101,7 +101,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/789kp.json"
+            "ext":"https://f.cyao.tk/ext/789kp.json"
         },
         {
             "key":"在线之家",
@@ -111,7 +111,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/zxzj.json"
+            "ext":"https://f.cyao.tk/ext/zxzj.json"
         },
         {
             "key":"完美看看",
@@ -121,7 +121,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/wmkankan.json"
+            "ext":"https://f.cyao.tk/ext/wmkankan.json"
         },
         {
             "key":"蓝光影院",
@@ -131,7 +131,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/lgyy.json"
+            "ext":"https://f.cyao.tk/ext/lgyy.json"
         },
         {
             "key":"影视之光",
@@ -141,7 +141,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/ext/yszg.json"
+            "ext":"https://f.cyao.tk/ext/yszg.json"
         },
         {
             "key":"影视工厂",
@@ -151,7 +151,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/ext/ysgc.json"
+            "ext":"https://f.cyao.tk/ext/ysgc.json"
         },
         {
             "key":"动漫巴士",
@@ -161,7 +161,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://f.cyao.tk/ext/dm84.json"
+            "ext":"https://f.cyao.tk/ext/dm84.json"
         },
         {
             "key":"看视界",
@@ -189,7 +189,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/B站.txt"
+            "ext":"https://f.cyao.tk/ext/B站.txt"
         },
         {
             "key":"歌曲MV",
@@ -199,7 +199,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/歌曲.txt"
+            "ext":"https://f.cyao.tk/ext/歌曲.txt"
         },
         {
             "key":"相声小品",
@@ -209,7 +209,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/相声.txt"
+            "ext":"https://f.cyao.tk/ext/相声.txt"
         },
         {
             "key":"国粹戏曲",
@@ -219,7 +219,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"http://f.cyao.tk/ext/戏曲.txt"
+            "ext":"https://f.cyao.tk/ext/戏曲.txt"
         },
         {
             "key":"T4",
@@ -302,35 +302,6 @@
                 ],
                 "header":{
                     "User-Agent":"okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name":"parwix",
-            "type":0,
-            "url":"https://jx.bozrc.com:4433/player/?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header":{
-                    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
                 }
             }
         },
