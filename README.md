@@ -2,7 +2,7 @@
 
 <https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv>
 
-## TVBox [直接下载](http://g.cyao.ml/app/xyys.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH) [分享迷](https://www.fenxm.com/842.html)
+## TVBox [直接下载](http://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH) [分享迷](https://www.fenxm.com/842.html)
 
 <https://f.cyao.tk/n.json>
 
