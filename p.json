@@ -276,55 +276,29 @@
             "url":"Sequence"
         },
         {
-            "name":"keyu",
+            "name":"znjson",
+            "type":1,
+            "url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="
+        },
+        {
+            "name":"keyu3",
             "type":1,
             "url":"http://newjiexi.gotka.top/keyu3.php?url=",
             "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
                 "header":{
                     "User-Agent":"okhttp/4.1.0"
                 }
             }
         },
         {
+            "name":"jhjson",
+            "type":1,
+            "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="
+        },
+        {
             "name":"nxflv",
             "type":0,
-            "url":"https://www.nxflv.com/?url=",
-            "ext":{
-                "flag":[
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "qq",
-                    "奇艺",
-                    "sohu",
-                    "letv"
-                ]
-            }
+            "url":"https://www.nxflv.com/?url="
         },
         {
             "name":"m3u8",
