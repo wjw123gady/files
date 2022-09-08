@@ -306,16 +306,6 @@
             }
         },
         {
-            "name":"aiku",
-            "type":1,
-            "url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
-        },
-        {
-            "name":"ggtv",
-            "type":1,
-            "url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="
-        },
-        {
             "name":"parwix",
             "type":0,
             "url":"https://jx.bozrc.com:4433/player/?url=",
@@ -338,7 +328,10 @@
                     "bilibili",
                     "哔哩哔哩",
                     "哔哩"
-                ]
+                ],
+                "header":{
+                    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+                }
             }
         },
         {
@@ -363,11 +356,6 @@
             }
         },
         {
-            "name":"mtosz",
-            "type":0,
-            "url":"https://www.mtosz.com/m3u8.php?url="
-        },
-        {
             "name":"m3u8",
             "type":0,
             "url":"https://jx.m3u8.tv/jiexi/?url="
@@ -386,11 +374,6 @@
             "name":"m2090",
             "type":0,
             "url":"https://m2090.com/?url="
-        },
-        {
-            "name":"ckmov",
-            "type":0,
-            "url":"https://www.ckmov.vip/api.php?url="
         },
         {
             "name":"okjx",
