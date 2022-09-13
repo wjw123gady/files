@@ -361,26 +361,6 @@
             "expires":"86400"
         }
     ],
-    "rating":[
-        {
-            "name":"rating",
-            "request":{
-                "method":"GET",
-                "url":{
-                    "raw":"https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
-                }
-            },
-            "response":{
-                "result":"this",
-                "data":[
-                    {
-                        "key":"rating",
-                        "value":"doubanRating"
-                    }
-                ]
-            }
-        }
-    ],
     "hotSearch":[
         {
             "name":"360kan",
