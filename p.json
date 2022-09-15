@@ -276,12 +276,7 @@
             "url":"Sequence"
         },
         {
-            "name":"znjson",
-            "type":1,
-            "url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="
-        },
-        {
-            "name":"keyu3",
+            "name":"gotka",
             "type":1,
             "url":"http://newjiexi.gotka.top/keyu3.php?url=",
             "ext":{
@@ -299,21 +294,6 @@
             "name":"nxflv",
             "type":0,
             "url":"https://www.nxflv.com/?url="
-        },
-        {
-            "name":"m3u8",
-            "type":0,
-            "url":"https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name":"bingdou",
-            "type":0,
-            "url":"https://api.qianqi.net/vip/?url="
-        },
-        {
-            "name":"jiexi",
-            "type":0,
-            "url":"https://api.jiexi.la/?url="
         },
         {
             "name":"m2090",
