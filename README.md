@@ -16,8 +16,6 @@
 
 <https://f.cyao.tk/p.json>
 
-<https://gitea.com/zwx/itv/raw/branch/dev/v/ys.json>
-
 ## BiuBiu播放器 [蓝奏云盘](https://cyao.lanzouu.com/iCONz06ruybe) [分享迷](https://www.fenxm.com/806.html)   
 
 <https://f.cyao.tk/biubiu/bb.json>
