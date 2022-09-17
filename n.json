@@ -134,6 +134,16 @@
             "ext":"https://f.cyao.tk/ext/lgyy.json"
         },
         {
+            "key":"VOFLIX",
+            "name":"VOFLIX(XP)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://f.cyao.tk/ext/voflix.json"
+        },
+        {
             "key":"影视之光",
             "name":"影视之光(XB)",
             "type":3,
@@ -202,6 +212,16 @@
             "ext":"https://f.cyao.tk/ext/歌曲.txt"
         },
         {
+            "key":"女团热舞",
+            "name":"女团热舞(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://f.cyao.tk/ext/热舞.txt"
+        },
+        {
             "key":"相声小品",
             "name":"相声小品(Bili)",
             "type":3,
@@ -225,7 +245,7 @@
             "key":"T4",
             "name":"开始观看(T4)",
             "type":4,
-            "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -238,7 +258,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"3781469b13074e4cac1e0e7113e4fa20"
+            "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
         },
         {
             "key":"猫狸盘搜",
@@ -248,7 +268,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"3781469b13074e4cac1e0e7113e4fa20"
+            "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
         }
     ],
     "lives":[

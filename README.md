@@ -8,9 +8,9 @@
 
 <https://wds.ecsxs.com/223843.txt>
 
-<https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json>
-
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
+
+<https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json>
 
 ## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [蓝奏云盘](https://cyao.lanzouy.com/iMxgz0argadc)
 
