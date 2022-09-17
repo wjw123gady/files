@@ -135,7 +135,7 @@
         },
         {
             "key":"VOFLIX",
-            "name":"VOFLIX(XP)",
+            "name":"VOFLIX(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -202,26 +202,6 @@
             "ext":"https://f.cyao.tk/ext/B站.txt"
         },
         {
-            "key":"歌曲MV",
-            "name":"歌曲MV(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://f.cyao.tk/ext/歌曲.txt"
-        },
-        {
-            "key":"女团热舞",
-            "name":"女团热舞(Bili)",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://f.cyao.tk/ext/热舞.txt"
-        },
-        {
             "key":"相声小品",
             "name":"相声小品(Bili)",
             "type":3,
@@ -240,6 +220,26 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"https://f.cyao.tk/ext/戏曲.txt"
+        },
+        {
+            "key":"女团热舞",
+            "name":"女团热舞(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://f.cyao.tk/ext/热舞.txt"
+        },
+        {
+            "key":"歌曲MV",
+            "name":"歌曲MV(Bili)",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://f.cyao.tk/ext/歌曲.txt"
         },
         {
             "key":"T4",
