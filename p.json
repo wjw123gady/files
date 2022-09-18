@@ -64,16 +64,6 @@
             "filterable":1
         },
         {
-            "key":"LIBVIO",
-            "name":"LIBVIO(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://f.cyao.tk/ext/lib.json"
-        },
-        {
             "key":"剧白白",
             "name":"剧白白(XP)",
             "type":3,
@@ -84,14 +74,14 @@
             "ext":"https://f.cyao.tk/ext/jubaibai.json"
         },
         {
-            "key":"天空V2",
-            "name":"天空V2(M2)",
+            "key":"LIBVIO",
+            "name":"LIBVIO(XP)",
             "type":3,
-            "api":"csp_AppYsV2",
+            "api":"csp_XPathFilter",
             "searchable":1,
-            "quickSearch":0,
+            "quickSearch":1,
             "filterable":1,
-            "ext":"https://www.tkys.tv/xgapp.php/v2/"
+            "ext":"https://f.cyao.tk/ext/lib.json"
         },
         {
             "key":"789看片",
@@ -134,16 +124,6 @@
             "ext":"https://f.cyao.tk/ext/lgyy.json"
         },
         {
-            "key":"VOFLIX",
-            "name":"VOFLIX(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://f.cyao.tk/ext/voflix.json"
-        },
-        {
             "key":"影视之光",
             "name":"影视之光(XB)",
             "type":3,
@@ -162,6 +142,16 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://f.cyao.tk/ext/ysgc.json"
+        },
+        {
+            "key":"VOFLIX",
+            "name":"VOFLIX(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://f.cyao.tk/ext/voflix.json"
         },
         {
             "key":"动漫巴士",
