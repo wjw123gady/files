@@ -1,6 +1,8 @@
 ## TV盒子软件
 
-<https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv>
+<https://github.com/pluto-player/updates/releases>
+
+<https://github.com/o0HalfLife0o/TVBoxOSC/releases>
 
 ## TVBox [直接下载](http://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH) [分享迷](https://www.fenxm.com/842.html)
 
@@ -8,11 +10,9 @@
 
 <https://wds.ecsxs.com/223843.txt>
 
-<https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
-
 <https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json>
 
-## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [蓝奏云盘](https://cyao.lanzouy.com/iMxgz0argadc)
+## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH) [蓝奏云盘](https://cyao.lanzouy.com/iMxgz0argadc)
 
 <https://f.cyao.tk/p.json>
 
@@ -29,6 +29,8 @@
 # Github加速服务
 
 <https://raw.iqiq.io/cyao2q/files/master/n.json>
+
+<https://cdn.jsdelivr.net/gh/cyao2q/files@master/n.json>
 
 <https://raw.githubusercontents.com/cyao2q/files/master/biubiu/bb.json>
 
