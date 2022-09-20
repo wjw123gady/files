@@ -1,7 +1,5 @@
 ## TV盒子软件
 
-<https://github.com/pluto-player/updates/releases>
-
 <https://github.com/o0HalfLife0o/TVBoxOSC/releases>
 
 ## TVBox [直接下载](http://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH) [分享迷](https://www.fenxm.com/842.html)

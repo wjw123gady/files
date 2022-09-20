@@ -189,7 +189,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://f.cyao.tk/ext/B站.txt"
+            "ext":"https://f.cyao.tk/ext/Bili.json"
         },
         {
             "key":"相声小品",
@@ -199,7 +199,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"https://f.cyao.tk/ext/相声.txt"
+            "ext":"https://f.cyao.tk/ext/Bili_xs.json"
         },
         {
             "key":"国粹戏曲",
@@ -209,7 +209,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"https://f.cyao.tk/ext/戏曲.txt"
+            "ext":"https://f.cyao.tk/ext/Bili_xq.json"
         },
         {
             "key":"女团热舞",
@@ -219,7 +219,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"https://f.cyao.tk/ext/热舞.txt"
+            "ext":"https://f.cyao.tk/ext/Bili_rw.json"
         },
         {
             "key":"歌曲MV",
@@ -229,7 +229,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"https://f.cyao.tk/ext/歌曲.txt"
+            "ext":"https://f.cyao.tk/ext/Bili_gq.json"
         },
         {
             "key":"T4",
