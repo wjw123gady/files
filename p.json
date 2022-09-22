@@ -351,6 +351,26 @@
             "expires":"86400"
         }
     ],
+    "rating":[
+        {
+            "name":"豆瓣评分",
+            "request":{
+                "method":"GET",
+                "url":{
+                    "raw":"https://doubans.herokuapp.com/search?q={name}&limit=1"
+                }
+            },
+            "response":{
+                "result":"this",
+                "data":[
+                    {
+                        "key":"rating",
+                        "value":"rating"
+                    }
+                ]
+            }
+        }
+    ],
     "hotSearch":[
         {
             "name":"360kan",
