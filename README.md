@@ -6,11 +6,13 @@
 
 <https://f.cyao.tk/n.json>
 
+<http://g.cyao.ml/tvbox.zip>
+
 <https://wds.ecsxs.com/223843.txt>
 
 <https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json>
 
-## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH) [蓝奏云盘](https://cyao.lanzouy.com/iMxgz0argadc)
+## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
 <https://f.cyao.tk/p.json>
 
