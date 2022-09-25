@@ -6,9 +6,9 @@
 
 <https://f.cyao.tk/n.json>
 
-<http://g.cyao.ml/tvbox.zip>
+<http://byyds.top/w.txt>
 
-<https://wds.ecsxs.com/223843.txt>
+<http://g.cyao.ml/tvbox.zip>
 
 <https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json>
 
