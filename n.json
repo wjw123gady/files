@@ -164,15 +164,6 @@
             "ext":"https://f.cyao.tk/ext/dm84.json"
         },
         {
-            "key":"看视界",
-            "name":"看视界(KanSJ)",
-            "type":3,
-            "api":"csp_KanSJ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"LiteApple",
             "name":"小苹果(LiteApple)",
             "type":3,
