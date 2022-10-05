@@ -292,6 +292,11 @@
             "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="
         },
         {
+            "name":"parwix",
+            "type":0,
+            "url":"https://jx.bozrc.com:4433/player/?url="
+        },
+        {
             "name":"nxflv",
             "type":0,
             "url":"https://www.nxflv.com/?url="

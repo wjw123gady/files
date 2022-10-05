@@ -10,7 +10,7 @@
 
 <http://g.cyao.ml/tvbox.zip>
 
-<https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json>
+<https://raw.iqiq.io/liu673cn/box/main/m.json>
 
 ## PlutoPlayer [直接下载](http://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
 
